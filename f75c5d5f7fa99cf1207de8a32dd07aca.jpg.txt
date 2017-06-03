@@ -1,0 +1,85 @@
+{
+    "Labels": [
+        {
+            "Confidence": 90.48469543457031, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 90.48469543457031, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 90.48469543457031, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 90.48469543457031, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 83.05828857421875, 
+            "Name": "Bridge"
+        }, 
+        {
+            "Confidence": 69.08718872070312, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 69.08718872070312, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 69.08718872070312, 
+            "Name": "Skyscraper"
+        }, 
+        {
+            "Confidence": 57.28075408935547, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 55.73110580444336, 
+            "Name": "Crowd"
+        }, 
+        {
+            "Confidence": 52.812747955322266, 
+            "Name": "Intersection"
+        }, 
+        {
+            "Confidence": 52.812747955322266, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 52.779151916503906, 
+            "Name": "Lighting"
+        }, 
+        {
+            "Confidence": 52.22834777832031, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 51.45407485961914, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 51.45407485961914, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 51.24856185913086, 
+            "Name": "Console"
+        }, 
+        {
+            "Confidence": 51.055442810058594, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 51.055442810058594, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 50.97312927246094, 
+            "Name": "Convention Center"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

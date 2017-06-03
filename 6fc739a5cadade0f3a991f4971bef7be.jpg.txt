@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 82.58714294433594, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 82.58714294433594, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 56.66093826293945, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 56.66093826293945, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 55.917869567871094, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 55.917869567871094, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 51.911537170410156, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 51.58259201049805, 
+            "Name": "Office Building"
+        }, 
+        {
+            "Confidence": 51.16697692871094, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 51.16697692871094, 
+            "Name": "Urban"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

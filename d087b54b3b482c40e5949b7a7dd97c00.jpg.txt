@@ -1,0 +1,117 @@
+{
+    "Labels": [
+        {
+            "Confidence": 88.75369262695312, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 88.75369262695312, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 85.060302734375, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 85.060302734375, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 63.91763687133789, 
+            "Name": "Harbor"
+        }, 
+        {
+            "Confidence": 63.91763687133789, 
+            "Name": "Port"
+        }, 
+        {
+            "Confidence": 63.91763687133789, 
+            "Name": "Waterfront"
+        }, 
+        {
+            "Confidence": 61.54611587524414, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 61.54611587524414, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 55.729122161865234, 
+            "Name": "Lighting"
+        }, 
+        {
+            "Confidence": 55.06081008911133, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 54.18873977661133, 
+            "Name": "Dock"
+        }, 
+        {
+            "Confidence": 54.18873977661133, 
+            "Name": "Landing"
+        }, 
+        {
+            "Confidence": 54.18873977661133, 
+            "Name": "Marina"
+        }, 
+        {
+            "Confidence": 53.28285598754883, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 53.28285598754883, 
+            "Name": "Resort"
+        }, 
+        {
+            "Confidence": 53.10187911987305, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 51.55637741088867, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 51.28327560424805, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 51.09228515625, 
+            "Name": "Landscape"
+        }, 
+        {
+            "Confidence": 51.09228515625, 
+            "Name": "Nature"
+        }, 
+        {
+            "Confidence": 51.09228515625, 
+            "Name": "Scenery"
+        }, 
+        {
+            "Confidence": 50.76657485961914, 
+            "Name": "Pier"
+        }, 
+        {
+            "Confidence": 50.656898498535156, 
+            "Name": "Dome"
+        }, 
+        {
+            "Confidence": 50.51435852050781, 
+            "Name": "Cruise Ship"
+        }, 
+        {
+            "Confidence": 50.51435852050781, 
+            "Name": "Ocean Liner"
+        }, 
+        {
+            "Confidence": 50.51435852050781, 
+            "Name": "Ship"
+        }, 
+        {
+            "Confidence": 50.51435852050781, 
+            "Name": "Vessel"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

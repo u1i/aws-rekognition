@@ -1,0 +1,33 @@
+{
+    "Labels": [
+        {
+            "Confidence": 82.234375, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 82.234375, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 82.234375, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 82.234375, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 57.243900299072266, 
+            "Name": "Beverage"
+        }, 
+        {
+            "Confidence": 57.243900299072266, 
+            "Name": "Drink"
+        }, 
+        {
+            "Confidence": 50.9486198425293, 
+            "Name": "Lighting"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

@@ -1,0 +1,61 @@
+{
+    "Labels": [
+        {
+            "Confidence": 84.34010314941406, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 84.34010314941406, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 84.34010314941406, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 77.90201568603516, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 77.90201568603516, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 77.90201568603516, 
+            "Name": "Skyscraper"
+        }, 
+        {
+            "Confidence": 61.418663024902344, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 56.55764389038086, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 55.00364303588867, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 54.31675338745117, 
+            "Name": "Office Building"
+        }, 
+        {
+            "Confidence": 53.88279724121094, 
+            "Name": "Sign"
+        }, 
+        {
+            "Confidence": 52.48460006713867, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 52.48460006713867, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 50.665496826171875, 
+            "Name": "Apartment Building"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

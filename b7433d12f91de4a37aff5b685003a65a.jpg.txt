@@ -1,0 +1,57 @@
+{
+    "Labels": [
+        {
+            "Confidence": 88.73591613769531, 
+            "Name": "Astronomy"
+        }, 
+        {
+            "Confidence": 88.73591613769531, 
+            "Name": "Outer Space"
+        }, 
+        {
+            "Confidence": 88.73591613769531, 
+            "Name": "Space"
+        }, 
+        {
+            "Confidence": 88.73591613769531, 
+            "Name": "Universe"
+        }, 
+        {
+            "Confidence": 75.40739440917969, 
+            "Name": "Azure Sky"
+        }, 
+        {
+            "Confidence": 75.40739440917969, 
+            "Name": "Cloud"
+        }, 
+        {
+            "Confidence": 75.40739440917969, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 75.40739440917969, 
+            "Name": "Sky"
+        }, 
+        {
+            "Confidence": 55.333648681640625, 
+            "Name": "Cumulus"
+        }, 
+        {
+            "Confidence": 52.05183792114258, 
+            "Name": "Alps"
+        }, 
+        {
+            "Confidence": 52.05183792114258, 
+            "Name": "Crest"
+        }, 
+        {
+            "Confidence": 52.05183792114258, 
+            "Name": "Mountain"
+        }, 
+        {
+            "Confidence": 52.05183792114258, 
+            "Name": "Peak"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

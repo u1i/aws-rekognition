@@ -1,0 +1,61 @@
+{
+    "Labels": [
+        {
+            "Confidence": 66.55424499511719, 
+            "Name": "Balcony"
+        }, 
+        {
+            "Confidence": 57.1647834777832, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 57.1647834777832, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 56.45842742919922, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 56.45842742919922, 
+            "Name": "Monastery"
+        }, 
+        {
+            "Confidence": 55.53759765625, 
+            "Name": "Pagoda"
+        }, 
+        {
+            "Confidence": 55.53759765625, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 55.53759765625, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 55.53759765625, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 53.11738967895508, 
+            "Name": "Bell Tower"
+        }, 
+        {
+            "Confidence": 53.11738967895508, 
+            "Name": "Clock Tower"
+        }, 
+        {
+            "Confidence": 53.11738967895508, 
+            "Name": "Tower"
+        }, 
+        {
+            "Confidence": 50.52231979370117, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 50.52231979370117, 
+            "Name": "High Rise"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

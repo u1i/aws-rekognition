@@ -1,0 +1,65 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.32075500488281, 
+            "Name": "Cable Car"
+        }, 
+        {
+            "Confidence": 99.32075500488281, 
+            "Name": "Trolley"
+        }, 
+        {
+            "Confidence": 99.32075500488281, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 82.16714477539062, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 82.16714477539062, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 71.06880187988281, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 63.62908935546875, 
+            "Name": "Beacon"
+        }, 
+        {
+            "Confidence": 63.62908935546875, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 63.62908935546875, 
+            "Name": "Lighthouse"
+        }, 
+        {
+            "Confidence": 63.62908935546875, 
+            "Name": "Water Tower"
+        }, 
+        {
+            "Confidence": 59.31507873535156, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 56.49508285522461, 
+            "Name": "Transportation"
+        }, 
+        {
+            "Confidence": 52.260047912597656, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 51.125694274902344, 
+            "Name": "Streetcar"
+        }, 
+        {
+            "Confidence": 50.94990539550781, 
+            "Name": "Neighborhood"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

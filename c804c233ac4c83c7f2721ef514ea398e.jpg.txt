@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 68.12974548339844, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 68.12974548339844, 
+            "Name": "Seafood"
+        }, 
+        {
+            "Confidence": 65.14193725585938, 
+            "Name": "Carp"
+        }, 
+        {
+            "Confidence": 65.14193725585938, 
+            "Name": "Fish"
+        }, 
+        {
+            "Confidence": 65.14193725585938, 
+            "Name": "Sea Life"
+        }, 
+        {
+            "Confidence": 63.38672637939453, 
+            "Name": "Crab"
+        }, 
+        {
+            "Confidence": 63.38672637939453, 
+            "Name": "Invertebrate"
+        }, 
+        {
+            "Confidence": 52.5026741027832, 
+            "Name": "Rock"
+        }, 
+        {
+            "Confidence": 52.472923278808594, 
+            "Name": "Amphibian"
+        }, 
+        {
+            "Confidence": 52.472923278808594, 
+            "Name": "Toad"
+        }, 
+        {
+            "Confidence": 52.472923278808594, 
+            "Name": "Wildlife"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

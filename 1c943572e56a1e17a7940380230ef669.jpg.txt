@@ -1,0 +1,133 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.9504165649414, 
+            "Name": "Animal"
+        }, 
+        {
+            "Confidence": 97.9504165649414, 
+            "Name": "Deer"
+        }, 
+        {
+            "Confidence": 97.9504165649414, 
+            "Name": "Mammal"
+        }, 
+        {
+            "Confidence": 97.9504165649414, 
+            "Name": "Wildlife"
+        }, 
+        {
+            "Confidence": 72.7255859375, 
+            "Name": "Oak"
+        }, 
+        {
+            "Confidence": 72.7255859375, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 72.7255859375, 
+            "Name": "Wood"
+        }, 
+        {
+            "Confidence": 71.03954315185547, 
+            "Name": "Rock"
+        }, 
+        {
+            "Confidence": 68.21949768066406, 
+            "Name": "Gazelle"
+        }, 
+        {
+            "Confidence": 68.21949768066406, 
+            "Name": "Impala"
+        }, 
+        {
+            "Confidence": 62.30018615722656, 
+            "Name": "Zoo"
+        }, 
+        {
+            "Confidence": 62.040157318115234, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 56.306968688964844, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 54.42245101928711, 
+            "Name": "Forest"
+        }, 
+        {
+            "Confidence": 54.42245101928711, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 54.08455276489258, 
+            "Name": "Fir"
+        }, 
+        {
+            "Confidence": 54.08455276489258, 
+            "Name": "Grove"
+        }, 
+        {
+            "Confidence": 53.39447784423828, 
+            "Name": "Land"
+        }, 
+        {
+            "Confidence": 53.12977981567383, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 52.57139205932617, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 52.57139205932617, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 52.57139205932617, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 51.97608947753906, 
+            "Name": "Soil"
+        }, 
+        {
+            "Confidence": 51.43402099609375, 
+            "Name": "Moss"
+        }, 
+        {
+            "Confidence": 51.153594970703125, 
+            "Name": "Antelope"
+        }, 
+        {
+            "Confidence": 51.154319763183594, 
+            "Name": "Jungle"
+        }, 
+        {
+            "Confidence": 51.154319763183594, 
+            "Name": "Rainforest"
+        }, 
+        {
+            "Confidence": 51.07278060913086, 
+            "Name": "Path"
+        }, 
+        {
+            "Confidence": 51.07278060913086, 
+            "Name": "Trail"
+        }, 
+        {
+            "Confidence": 50.90032958984375, 
+            "Name": "Backyard"
+        }, 
+        {
+            "Confidence": 50.90032958984375, 
+            "Name": "Yard"
+        }, 
+        {
+            "Confidence": 50.51325607299805, 
+            "Name": "Countryside"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

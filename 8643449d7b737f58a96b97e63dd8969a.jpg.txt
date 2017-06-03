@@ -1,0 +1,101 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.00476837158203, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 99.00479125976562, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 98.96800994873047, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 91.56617736816406, 
+            "Name": "Goggles"
+        }, 
+        {
+            "Confidence": 70.2381820678711, 
+            "Name": "Clown"
+        }, 
+        {
+            "Confidence": 70.2381820678711, 
+            "Name": "Performer"
+        }, 
+        {
+            "Confidence": 63.63145065307617, 
+            "Name": "Face"
+        }, 
+        {
+            "Confidence": 63.63145065307617, 
+            "Name": "Portrait"
+        }, 
+        {
+            "Confidence": 63.63145065307617, 
+            "Name": "Smile"
+        }, 
+        {
+            "Confidence": 59.289825439453125, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 59.289825439453125, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 59.289825439453125, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 59.289825439453125, 
+            "Name": "Petal"
+        }, 
+        {
+            "Confidence": 59.289825439453125, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 54.426883697509766, 
+            "Name": "Accessories"
+        }, 
+        {
+            "Confidence": 54.426883697509766, 
+            "Name": "Bead"
+        }, 
+        {
+            "Confidence": 54.426883697509766, 
+            "Name": "Prayer Beads"
+        }, 
+        {
+            "Confidence": 52.19103240966797, 
+            "Name": "Iris"
+        }, 
+        {
+            "Confidence": 51.768653869628906, 
+            "Name": "Crowd"
+        }, 
+        {
+            "Confidence": 51.57648849487305, 
+            "Name": "Toy"
+        }, 
+        {
+            "Confidence": 51.07342529296875, 
+            "Name": "Selfie"
+        }, 
+        {
+            "Confidence": 50.983821868896484, 
+            "Name": "Crocus"
+        }, 
+        {
+            "Confidence": 50.628173828125, 
+            "Name": "Party"
+        }, 
+        {
+            "Confidence": 50.599605560302734, 
+            "Name": "Glasses"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

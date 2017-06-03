@@ -1,0 +1,33 @@
+{
+    "Labels": [
+        {
+            "Confidence": 73.57579803466797, 
+            "Name": "Dessert"
+        }, 
+        {
+            "Confidence": 73.57579803466797, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 52.35511779785156, 
+            "Name": "Candy"
+        }, 
+        {
+            "Confidence": 52.35511779785156, 
+            "Name": "Confectionery"
+        }, 
+        {
+            "Confidence": 52.35511779785156, 
+            "Name": "Sweets"
+        }, 
+        {
+            "Confidence": 50.81064224243164, 
+            "Name": "Cream"
+        }, 
+        {
+            "Confidence": 50.81064224243164, 
+            "Name": "Creme"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

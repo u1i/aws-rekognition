@@ -1,0 +1,177 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.0416259765625, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 97.0416259765625, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 96.86768341064453, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 96.86768341064453, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 96.86768341064453, 
+            "Name": "Villa"
+        }, 
+        {
+            "Confidence": 93.88361358642578, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 63.850189208984375, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 63.850189208984375, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 63.850189208984375, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 63.850189208984375, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 57.0253791809082, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 57.0253791809082, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 57.0253791809082, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 54.14271545410156, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 54.14271545410156, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 52.571922302246094, 
+            "Name": "Alley"
+        }, 
+        {
+            "Confidence": 52.571922302246094, 
+            "Name": "Alleyway"
+        }, 
+        {
+            "Confidence": 52.571922302246094, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 52.571922302246094, 
+            "Name": "Street"
+        }, 
+        {
+            "Confidence": 51.96049880981445, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 51.96049880981445, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 51.81549072265625, 
+            "Name": "Cable Car"
+        }, 
+        {
+            "Confidence": 51.81443786621094, 
+            "Name": "Shop"
+        }, 
+        {
+            "Confidence": 51.81549072265625, 
+            "Name": "Streetcar"
+        }, 
+        {
+            "Confidence": 51.81549072265625, 
+            "Name": "Trolley"
+        }, 
+        {
+            "Confidence": 51.81549072265625, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 51.37334442138672, 
+            "Name": "Apartment Building"
+        }, 
+        {
+            "Confidence": 51.37334442138672, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 51.0930290222168, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 51.0930290222168, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 51.0930290222168, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 50.82013702392578, 
+            "Name": "Bar Counter"
+        }, 
+        {
+            "Confidence": 50.82013702392578, 
+            "Name": "Pub"
+        }, 
+        {
+            "Confidence": 50.70555877685547, 
+            "Name": "Office Building"
+        }, 
+        {
+            "Confidence": 50.69146728515625, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 50.677978515625, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 50.64051055908203, 
+            "Name": "Intersection"
+        }, 
+        {
+            "Confidence": 50.57194137573242, 
+            "Name": "Conifer"
+        }, 
+        {
+            "Confidence": 50.57194137573242, 
+            "Name": "Fir"
+        }, 
+        {
+            "Confidence": 50.52335739135742, 
+            "Name": "Dock"
+        }, 
+        {
+            "Confidence": 50.52335739135742, 
+            "Name": "Landing"
+        }, 
+        {
+            "Confidence": 50.52335739135742, 
+            "Name": "Pier"
+        }, 
+        {
+            "Confidence": 50.51081085205078, 
+            "Name": "Lighting"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

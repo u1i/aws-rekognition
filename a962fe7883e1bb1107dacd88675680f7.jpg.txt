@@ -1,0 +1,73 @@
+{
+    "Labels": [
+        {
+            "Confidence": 85.7317123413086, 
+            "Name": "Waterfront"
+        }, 
+        {
+            "Confidence": 73.80197143554688, 
+            "Name": "Dock"
+        }, 
+        {
+            "Confidence": 73.80197143554688, 
+            "Name": "Landing"
+        }, 
+        {
+            "Confidence": 73.80197143554688, 
+            "Name": "Pier"
+        }, 
+        {
+            "Confidence": 59.7266960144043, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 59.7266960144043, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 55.009918212890625, 
+            "Name": "Coast"
+        }, 
+        {
+            "Confidence": 55.008052825927734, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 55.009918212890625, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 55.009918212890625, 
+            "Name": "Sea"
+        }, 
+        {
+            "Confidence": 55.008052825927734, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 55.009918212890625, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 53.046661376953125, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 51.15367889404297, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 50.68864059448242, 
+            "Name": "Harbor"
+        }, 
+        {
+            "Confidence": 50.68864059448242, 
+            "Name": "Port"
+        }, 
+        {
+            "Confidence": 50.6319465637207, 
+            "Name": "Marina"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

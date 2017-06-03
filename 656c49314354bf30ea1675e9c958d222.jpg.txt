@@ -1,0 +1,93 @@
+{
+    "Labels": [
+        {
+            "Confidence": 90.77836608886719, 
+            "Name": "Alley"
+        }, 
+        {
+            "Confidence": 90.77836608886719, 
+            "Name": "Alleyway"
+        }, 
+        {
+            "Confidence": 90.77836608886719, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 90.77836608886719, 
+            "Name": "Street"
+        }, 
+        {
+            "Confidence": 90.77836608886719, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 88.50182342529297, 
+            "Name": "Grass"
+        }, 
+        {
+            "Confidence": 88.50182342529297, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 88.50182342529297, 
+            "Name": "Reed"
+        }, 
+        {
+            "Confidence": 76.89738464355469, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 67.00337219238281, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 67.00337219238281, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 67.00337219238281, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 50.999385833740234, 
+            "Name": "Automobile"
+        }, 
+        {
+            "Confidence": 50.999385833740234, 
+            "Name": "Car"
+        }, 
+        {
+            "Confidence": 50.999385833740234, 
+            "Name": "Sedan"
+        }, 
+        {
+            "Confidence": 50.999385833740234, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 50.75084686279297, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 50.66117477416992, 
+            "Name": "Van"
+        }, 
+        {
+            "Confidence": 50.64739990234375, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 50.58672332763672, 
+            "Name": "Lighting"
+        }, 
+        {
+            "Confidence": 50.56511688232422, 
+            "Name": "Field"
+        }, 
+        {
+            "Confidence": 50.56511688232422, 
+            "Name": "Grassland"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

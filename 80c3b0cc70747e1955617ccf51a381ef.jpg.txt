@@ -1,0 +1,65 @@
+{
+    "Labels": [
+        {
+            "Confidence": 94.67787170410156, 
+            "Name": "Garlic"
+        }, 
+        {
+            "Confidence": 94.67787170410156, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 83.77949523925781, 
+            "Name": "Bread"
+        }, 
+        {
+            "Confidence": 83.77949523925781, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 83.77949523925781, 
+            "Name": "Pita"
+        }, 
+        {
+            "Confidence": 69.6678695678711, 
+            "Name": "Animal"
+        }, 
+        {
+            "Confidence": 69.6678695678711, 
+            "Name": "Bunny"
+        }, 
+        {
+            "Confidence": 69.6678695678711, 
+            "Name": "Mammal"
+        }, 
+        {
+            "Confidence": 69.6678695678711, 
+            "Name": "Rabbit"
+        }, 
+        {
+            "Confidence": 69.6678695678711, 
+            "Name": "Rodent"
+        }, 
+        {
+            "Confidence": 54.357635498046875, 
+            "Name": "Cream"
+        }, 
+        {
+            "Confidence": 54.357635498046875, 
+            "Name": "Creme"
+        }, 
+        {
+            "Confidence": 54.357635498046875, 
+            "Name": "Dessert"
+        }, 
+        {
+            "Confidence": 51.127197265625, 
+            "Name": "Cake"
+        }, 
+        {
+            "Confidence": 51.127197265625, 
+            "Name": "Icing"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_270"
+}

@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.98369598388672, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 98.98372650146484, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 98.94413757324219, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 96.03923034667969, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 96.03923034667969, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 73.23209381103516, 
+            "Name": "Army"
+        }, 
+        {
+            "Confidence": 73.23209381103516, 
+            "Name": "Military"
+        }, 
+        {
+            "Confidence": 73.23209381103516, 
+            "Name": "Military Uniform"
+        }, 
+        {
+            "Confidence": 73.23209381103516, 
+            "Name": "Soldier"
+        }, 
+        {
+            "Confidence": 68.94453430175781, 
+            "Name": "Eating"
+        }, 
+        {
+            "Confidence": 51.352500915527344, 
+            "Name": "Caravan"
+        }, 
+        {
+            "Confidence": 51.352500915527344, 
+            "Name": "Van"
+        }, 
+        {
+            "Confidence": 51.352500915527344, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 51.209564208984375, 
+            "Name": "Portrait"
+        }, 
+        {
+            "Confidence": 51.209564208984375, 
+            "Name": "Selfie"
+        }, 
+        {
+            "Confidence": 50.96782302856445, 
+            "Name": "Apparel"
+        }, 
+        {
+            "Confidence": 50.96782302856445, 
+            "Name": "Clothing"
+        }, 
+        {
+            "Confidence": 50.838356018066406, 
+            "Name": "Food"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

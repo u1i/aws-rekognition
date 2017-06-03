@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.17053985595703, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 99.1705551147461, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 99.15409851074219, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 58.917503356933594, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 52.948265075683594, 
+            "Name": "Portrait"
+        }, 
+        {
+            "Confidence": 52.948265075683594, 
+            "Name": "Selfie"
+        }, 
+        {
+            "Confidence": 51.987464904785156, 
+            "Name": "Female"
+        }, 
+        {
+            "Confidence": 51.003055572509766, 
+            "Name": "Shop"
+        }, 
+        {
+            "Confidence": 50.990665435791016, 
+            "Name": "Closet"
+        }, 
+        {
+            "Confidence": 50.990665435791016, 
+            "Name": "Kiosk"
+        }, 
+        {
+            "Confidence": 50.95170593261719, 
+            "Name": "Worker"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

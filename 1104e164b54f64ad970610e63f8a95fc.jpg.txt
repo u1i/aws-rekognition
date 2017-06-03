@@ -1,0 +1,81 @@
+{
+    "Labels": [
+        {
+            "Confidence": 83.24006652832031, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 83.24006652832031, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 80.51215362548828, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 80.51215362548828, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 76.15728759765625, 
+            "Name": "Waterfront"
+        }, 
+        {
+            "Confidence": 65.96871948242188, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 65.96871948242188, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 65.09323120117188, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 60.981571197509766, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 60.981571197509766, 
+            "Name": "River"
+        }, 
+        {
+            "Confidence": 60.981571197509766, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 54.41146469116211, 
+            "Name": "Flare"
+        }, 
+        {
+            "Confidence": 54.41146469116211, 
+            "Name": "Light"
+        }, 
+        {
+            "Confidence": 54.41146469116211, 
+            "Name": "Sunlight"
+        }, 
+        {
+            "Confidence": 52.19705581665039, 
+            "Name": "Landscape"
+        }, 
+        {
+            "Confidence": 52.19705581665039, 
+            "Name": "Nature"
+        }, 
+        {
+            "Confidence": 52.19705581665039, 
+            "Name": "Scenery"
+        }, 
+        {
+            "Confidence": 50.923583984375, 
+            "Name": "Harbor"
+        }, 
+        {
+            "Confidence": 50.923583984375, 
+            "Name": "Port"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

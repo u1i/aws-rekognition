@@ -1,0 +1,37 @@
+{
+    "Labels": [
+        {
+            "Confidence": 92.37091827392578, 
+            "Name": "Automobile"
+        }, 
+        {
+            "Confidence": 92.37091827392578, 
+            "Name": "Car"
+        }, 
+        {
+            "Confidence": 92.37091827392578, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 86.55369567871094, 
+            "Name": "Coupe"
+        }, 
+        {
+            "Confidence": 86.55369567871094, 
+            "Name": "Sports Car"
+        }, 
+        {
+            "Confidence": 67.11070251464844, 
+            "Name": "Sedan"
+        }, 
+        {
+            "Confidence": 58.96217346191406, 
+            "Name": "Race Car"
+        }, 
+        {
+            "Confidence": 51.47426223754883, 
+            "Name": "Suv"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

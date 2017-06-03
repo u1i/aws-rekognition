@@ -1,0 +1,25 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.09323120117188, 
+            "Name": "Buddha"
+        }, 
+        {
+            "Confidence": 99.09323120117188, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 99.09323120117188, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 99.09323120117188, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 51.603675842285156, 
+            "Name": "Bling"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

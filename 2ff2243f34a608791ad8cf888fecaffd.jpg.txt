@@ -1,0 +1,149 @@
+{
+    "Labels": [
+        {
+            "Confidence": 96.0215835571289, 
+            "Name": "Billboard"
+        }, 
+        {
+            "Confidence": 86.28608703613281, 
+            "Name": "Automobile"
+        }, 
+        {
+            "Confidence": 86.28608703613281, 
+            "Name": "Car"
+        }, 
+        {
+            "Confidence": 86.28608703613281, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 85.64289093017578, 
+            "Name": "Suv"
+        }, 
+        {
+            "Confidence": 78.40416717529297, 
+            "Name": "Scoreboard"
+        }, 
+        {
+            "Confidence": 70.26283264160156, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 70.26283264160156, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 70.26283264160156, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 64.09603881835938, 
+            "Name": "Boardwalk"
+        }, 
+        {
+            "Confidence": 64.09603881835938, 
+            "Name": "Path"
+        }, 
+        {
+            "Confidence": 64.09603881835938, 
+            "Name": "Pavement"
+        }, 
+        {
+            "Confidence": 64.09603881835938, 
+            "Name": "Sidewalk"
+        }, 
+        {
+            "Confidence": 64.09603881835938, 
+            "Name": "Walkway"
+        }, 
+        {
+            "Confidence": 61.99871826171875, 
+            "Name": "Night"
+        }, 
+        {
+            "Confidence": 61.99871826171875, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 55.08229064941406, 
+            "Name": "Van"
+        }, 
+        {
+            "Confidence": 54.8746452331543, 
+            "Name": "Intersection"
+        }, 
+        {
+            "Confidence": 54.8746452331543, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 54.45302200317383, 
+            "Name": "Shop"
+        }, 
+        {
+            "Confidence": 53.94966125488281, 
+            "Name": "Lighting"
+        }, 
+        {
+            "Confidence": 53.425025939941406, 
+            "Name": "Pedestrian"
+        }, 
+        {
+            "Confidence": 53.425025939941406, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 52.52641296386719, 
+            "Name": "Bazaar"
+        }, 
+        {
+            "Confidence": 52.52641296386719, 
+            "Name": "Market"
+        }, 
+        {
+            "Confidence": 52.2480354309082, 
+            "Name": "Street"
+        }, 
+        {
+            "Confidence": 52.2480354309082, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 51.89318084716797, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 51.80646896362305, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 51.80646896362305, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 51.80646896362305, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 51.23292922973633, 
+            "Name": "Sedan"
+        }, 
+        {
+            "Confidence": 50.95696258544922, 
+            "Name": "Bar Counter"
+        }, 
+        {
+            "Confidence": 50.95696258544922, 
+            "Name": "Pub"
+        }, 
+        {
+            "Confidence": 50.72496032714844, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 50.600685119628906, 
+            "Name": "Building"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

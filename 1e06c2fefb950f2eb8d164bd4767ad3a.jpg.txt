@@ -1,0 +1,21 @@
+{
+    "Labels": [
+        {
+            "Confidence": 96.81643676757812, 
+            "Name": "Spiral"
+        }, 
+        {
+            "Confidence": 92.26847839355469, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 92.26847839355469, 
+            "Name": "Dome"
+        }, 
+        {
+            "Confidence": 51.29206848144531, 
+            "Name": "Building"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_180"
+}

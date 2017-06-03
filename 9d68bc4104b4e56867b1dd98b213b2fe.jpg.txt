@@ -1,0 +1,57 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.22563934326172, 
+            "Name": "Boat"
+        }, 
+        {
+            "Confidence": 99.22563934326172, 
+            "Name": "Gondola"
+        }, 
+        {
+            "Confidence": 70.43698120117188, 
+            "Name": "Canoe"
+        }, 
+        {
+            "Confidence": 70.43698120117188, 
+            "Name": "Rowboat"
+        }, 
+        {
+            "Confidence": 57.68042755126953, 
+            "Name": "Shop"
+        }, 
+        {
+            "Confidence": 54.24720001220703, 
+            "Name": "Apparel"
+        }, 
+        {
+            "Confidence": 54.24720001220703, 
+            "Name": "Clothing"
+        }, 
+        {
+            "Confidence": 53.180091857910156, 
+            "Name": "Dock"
+        }, 
+        {
+            "Confidence": 53.180091857910156, 
+            "Name": "Landing"
+        }, 
+        {
+            "Confidence": 53.180091857910156, 
+            "Name": "Pier"
+        }, 
+        {
+            "Confidence": 51.77412033081055, 
+            "Name": "Flyer"
+        }, 
+        {
+            "Confidence": 51.77412033081055, 
+            "Name": "Poster"
+        }, 
+        {
+            "Confidence": 50.69889831542969, 
+            "Name": "Vessel"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

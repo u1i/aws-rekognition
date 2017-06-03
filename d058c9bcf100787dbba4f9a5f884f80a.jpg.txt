@@ -1,0 +1,41 @@
+{
+    "Labels": [
+        {
+            "Confidence": 54.19987487792969, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 54.19987487792969, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 54.19987487792969, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 54.19987487792969, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 50.830780029296875, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 50.8277473449707, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 50.575660705566406, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 50.575660705566406, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 50.575660705566406, 
+            "Name": "Urban"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

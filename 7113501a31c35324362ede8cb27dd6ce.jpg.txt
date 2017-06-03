@@ -1,0 +1,93 @@
+{
+    "Labels": [
+        {
+            "Confidence": 83.4502944946289, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 83.4502944946289, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 83.4502944946289, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 83.4502944946289, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 82.20137023925781, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 82.20137023925781, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 75.3332748413086, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 75.3332748413086, 
+            "Name": "Skyscraper"
+        }, 
+        {
+            "Confidence": 59.7468376159668, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 54.44409942626953, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 53.2614631652832, 
+            "Name": "Harbor"
+        }, 
+        {
+            "Confidence": 53.2614631652832, 
+            "Name": "Port"
+        }, 
+        {
+            "Confidence": 53.2614631652832, 
+            "Name": "Waterfront"
+        }, 
+        {
+            "Confidence": 52.147613525390625, 
+            "Name": "Landscape"
+        }, 
+        {
+            "Confidence": 52.147613525390625, 
+            "Name": "Nature"
+        }, 
+        {
+            "Confidence": 52.147613525390625, 
+            "Name": "Scenery"
+        }, 
+        {
+            "Confidence": 51.762168884277344, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 51.56526565551758, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 51.56526565551758, 
+            "Name": "Resort"
+        }, 
+        {
+            "Confidence": 51.14208984375, 
+            "Name": "Dock"
+        }, 
+        {
+            "Confidence": 51.14208984375, 
+            "Name": "Landing"
+        }, 
+        {
+            "Confidence": 51.14208984375, 
+            "Name": "Marina"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

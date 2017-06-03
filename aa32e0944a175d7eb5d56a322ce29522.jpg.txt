@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.01822662353516, 
+            "Name": "Conference Room"
+        }, 
+        {
+            "Confidence": 97.01822662353516, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 97.01822662353516, 
+            "Name": "Meeting Room"
+        }, 
+        {
+            "Confidence": 97.01822662353516, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 95.81981658935547, 
+            "Name": "Dining Table"
+        }, 
+        {
+            "Confidence": 95.81981658935547, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 95.81981658935547, 
+            "Name": "Table"
+        }, 
+        {
+            "Confidence": 95.1452407836914, 
+            "Name": "Aircraft"
+        }, 
+        {
+            "Confidence": 95.1452407836914, 
+            "Name": "Airplane"
+        }, 
+        {
+            "Confidence": 91.36878967285156, 
+            "Name": "Chair"
+        }, 
+        {
+            "Confidence": 62.355430603027344, 
+            "Name": "Apartment"
+        }, 
+        {
+            "Confidence": 62.355430603027344, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 60.37312698364258, 
+            "Name": "Dining Room"
+        }, 
+        {
+            "Confidence": 52.44272232055664, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 51.15576934814453, 
+            "Name": "Bathtub"
+        }, 
+        {
+            "Confidence": 51.15576934814453, 
+            "Name": "Tub"
+        }, 
+        {
+            "Confidence": 50.883399963378906, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 50.656883239746094, 
+            "Name": "Interior Design"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

@@ -1,0 +1,41 @@
+{
+    "Labels": [
+        {
+            "Confidence": 83.52860260009766, 
+            "Name": "Billboard"
+        }, 
+        {
+            "Confidence": 63.795352935791016, 
+            "Name": "Lighting"
+        }, 
+        {
+            "Confidence": 58.080928802490234, 
+            "Name": "Crowd"
+        }, 
+        {
+            "Confidence": 57.85896682739258, 
+            "Name": "Light"
+        }, 
+        {
+            "Confidence": 55.88837814331055, 
+            "Name": "Bar Counter"
+        }, 
+        {
+            "Confidence": 55.88837814331055, 
+            "Name": "Pub"
+        }, 
+        {
+            "Confidence": 54.52701950073242, 
+            "Name": "Night Club"
+        }, 
+        {
+            "Confidence": 54.52701950073242, 
+            "Name": "Night Life"
+        }, 
+        {
+            "Confidence": 50.76190948486328, 
+            "Name": "Bling"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

@@ -1,0 +1,105 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.94463348388672, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 98.94463348388672, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 97.61872863769531, 
+            "Name": "Ivy"
+        }, 
+        {
+            "Confidence": 97.61872863769531, 
+            "Name": "Vine"
+        }, 
+        {
+            "Confidence": 87.15348052978516, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 87.15348052978516, 
+            "Name": "Cottage"
+        }, 
+        {
+            "Confidence": 87.15348052978516, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 73.7175521850586, 
+            "Name": "Deck"
+        }, 
+        {
+            "Confidence": 73.7175521850586, 
+            "Name": "Porch"
+        }, 
+        {
+            "Confidence": 67.57453918457031, 
+            "Name": "Brick"
+        }, 
+        {
+            "Confidence": 57.4315071105957, 
+            "Name": "Villa"
+        }, 
+        {
+            "Confidence": 54.731685638427734, 
+            "Name": "Shop"
+        }, 
+        {
+            "Confidence": 54.62484359741211, 
+            "Name": "Backyard"
+        }, 
+        {
+            "Confidence": 54.62484359741211, 
+            "Name": "Yard"
+        }, 
+        {
+            "Confidence": 52.31391906738281, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 52.31391906738281, 
+            "Name": "Church"
+        }, 
+        {
+            "Confidence": 52.31391906738281, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 51.071895599365234, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 51.071895599365234, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 51.071895599365234, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 50.661521911621094, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 50.650535583496094, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 50.650535583496094, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 50.650535583496094, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 50.64405822753906, 
+            "Name": "Tree"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

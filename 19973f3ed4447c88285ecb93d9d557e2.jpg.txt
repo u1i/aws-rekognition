@@ -1,0 +1,81 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.06587219238281, 
+            "Name": "Citrus Fruit"
+        }, 
+        {
+            "Confidence": 99.06587219238281, 
+            "Name": "Fruit"
+        }, 
+        {
+            "Confidence": 99.06587219238281, 
+            "Name": "Grapefruit"
+        }, 
+        {
+            "Confidence": 99.06587219238281, 
+            "Name": "Pomelo"
+        }, 
+        {
+            "Confidence": 73.49227905273438, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 65.08121490478516, 
+            "Name": "Beverage"
+        }, 
+        {
+            "Confidence": 65.08121490478516, 
+            "Name": "Drink"
+        }, 
+        {
+            "Confidence": 61.65009307861328, 
+            "Name": "Glass"
+        }, 
+        {
+            "Confidence": 60.12313461303711, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 58.405460357666016, 
+            "Name": "Cup"
+        }, 
+        {
+            "Confidence": 57.51673126220703, 
+            "Name": "Noodle"
+        }, 
+        {
+            "Confidence": 57.51673126220703, 
+            "Name": "Pasta"
+        }, 
+        {
+            "Confidence": 57.51673126220703, 
+            "Name": "Vermicelli"
+        }, 
+        {
+            "Confidence": 55.547481536865234, 
+            "Name": "Alcohol"
+        }, 
+        {
+            "Confidence": 55.547481536865234, 
+            "Name": "Cocktail"
+        }, 
+        {
+            "Confidence": 52.92305374145508, 
+            "Name": "Meal"
+        }, 
+        {
+            "Confidence": 52.326560974121094, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 50.66618347167969, 
+            "Name": "Porcelain"
+        }, 
+        {
+            "Confidence": 50.66618347167969, 
+            "Name": "Saucer"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

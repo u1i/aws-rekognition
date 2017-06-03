@@ -1,0 +1,141 @@
+{
+    "Labels": [
+        {
+            "Confidence": 88.51940155029297, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 88.51940155029297, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 85.32231140136719, 
+            "Name": "Maple"
+        }, 
+        {
+            "Confidence": 85.32231140136719, 
+            "Name": "Wood"
+        }, 
+        {
+            "Confidence": 69.70226287841797, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 69.70226287841797, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 69.70226287841797, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 60.42787551879883, 
+            "Name": "Conifer"
+        }, 
+        {
+            "Confidence": 60.42787551879883, 
+            "Name": "Fir"
+        }, 
+        {
+            "Confidence": 60.236785888671875, 
+            "Name": "Park"
+        }, 
+        {
+            "Confidence": 58.77849578857422, 
+            "Name": "Bench"
+        }, 
+        {
+            "Confidence": 56.762569427490234, 
+            "Name": "Birch"
+        }, 
+        {
+            "Confidence": 56.14714813232422, 
+            "Name": "Oak"
+        }, 
+        {
+            "Confidence": 55.11058044433594, 
+            "Name": "Cherry Blossom"
+        }, 
+        {
+            "Confidence": 55.07581329345703, 
+            "Name": "Forest"
+        }, 
+        {
+            "Confidence": 55.07581329345703, 
+            "Name": "Grove"
+        }, 
+        {
+            "Confidence": 55.07581329345703, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 55.06464767456055, 
+            "Name": "Campus"
+        }, 
+        {
+            "Confidence": 54.93011474609375, 
+            "Name": "Landscape"
+        }, 
+        {
+            "Confidence": 54.93011474609375, 
+            "Name": "Nature"
+        }, 
+        {
+            "Confidence": 54.93011474609375, 
+            "Name": "Scenery"
+        }, 
+        {
+            "Confidence": 53.55873107910156, 
+            "Name": "Boardwalk"
+        }, 
+        {
+            "Confidence": 53.55873107910156, 
+            "Name": "Path"
+        }, 
+        {
+            "Confidence": 53.55873107910156, 
+            "Name": "Pavement"
+        }, 
+        {
+            "Confidence": 53.55873107910156, 
+            "Name": "Sidewalk"
+        }, 
+        {
+            "Confidence": 53.55873107910156, 
+            "Name": "Walkway"
+        }, 
+        {
+            "Confidence": 52.88703918457031, 
+            "Name": "Sycamore"
+        }, 
+        {
+            "Confidence": 52.88703918457031, 
+            "Name": "Tree Trunk"
+        }, 
+        {
+            "Confidence": 51.25693130493164, 
+            "Name": "Dirt Road"
+        }, 
+        {
+            "Confidence": 51.25693130493164, 
+            "Name": "Gravel"
+        }, 
+        {
+            "Confidence": 51.25693130493164, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 50.555904388427734, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 50.555904388427734, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 50.555904388427734, 
+            "Name": "Town"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

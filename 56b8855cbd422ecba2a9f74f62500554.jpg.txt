@@ -1,0 +1,53 @@
+{
+    "Labels": [
+        {
+            "Confidence": 88.45647430419922, 
+            "Name": "Reception Room"
+        }, 
+        {
+            "Confidence": 88.45647430419922, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 88.45647430419922, 
+            "Name": "Waiting Room"
+        }, 
+        {
+            "Confidence": 54.53523254394531, 
+            "Name": "Dining Room"
+        }, 
+        {
+            "Confidence": 54.53523254394531, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 53.85629653930664, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 53.85629653930664, 
+            "Name": "Church"
+        }, 
+        {
+            "Confidence": 53.85629653930664, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 50.944847106933594, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 50.619895935058594, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 50.57959747314453, 
+            "Name": "Lobby"
+        }, 
+        {
+            "Confidence": 50.57959747314453, 
+            "Name": "Reception"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

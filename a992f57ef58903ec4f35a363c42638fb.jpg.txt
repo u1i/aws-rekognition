@@ -1,0 +1,133 @@
+{
+    "Labels": [
+        {
+            "Confidence": 78.74906921386719, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 78.74906921386719, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 78.74906921386719, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 78.74906921386719, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 77.68131256103516, 
+            "Name": "Arch"
+        }, 
+        {
+            "Confidence": 77.68131256103516, 
+            "Name": "Gate"
+        }, 
+        {
+            "Confidence": 66.81236267089844, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 66.81236267089844, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 62.81825256347656, 
+            "Name": "Collage"
+        }, 
+        {
+            "Confidence": 62.81825256347656, 
+            "Name": "Poster"
+        }, 
+        {
+            "Confidence": 54.04087829589844, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 54.04087829589844, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 54.04087829589844, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 53.81814956665039, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 53.81814956665039, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 52.94057083129883, 
+            "Name": "Closet"
+        }, 
+        {
+            "Confidence": 52.94057083129883, 
+            "Name": "Kiosk"
+        }, 
+        {
+            "Confidence": 52.89595031738281, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 52.89595031738281, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 52.13203430175781, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 51.60605239868164, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 51.57026672363281, 
+            "Name": "Alley"
+        }, 
+        {
+            "Confidence": 51.57026672363281, 
+            "Name": "Alleyway"
+        }, 
+        {
+            "Confidence": 51.57026672363281, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 51.57026672363281, 
+            "Name": "Street"
+        }, 
+        {
+            "Confidence": 51.10356140136719, 
+            "Name": "Crowd"
+        }, 
+        {
+            "Confidence": 50.82212829589844, 
+            "Name": "Shop"
+        }, 
+        {
+            "Confidence": 50.68342590332031, 
+            "Name": "Harbor"
+        }, 
+        {
+            "Confidence": 50.68342590332031, 
+            "Name": "Port"
+        }, 
+        {
+            "Confidence": 50.68342590332031, 
+            "Name": "Waterfront"
+        }, 
+        {
+            "Confidence": 50.54297637939453, 
+            "Name": "Backyard"
+        }, 
+        {
+            "Confidence": 50.54297637939453, 
+            "Name": "Yard"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

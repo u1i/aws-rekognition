@@ -1,0 +1,25 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.17144012451172, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 98.17144012451172, 
+            "Name": "Steak"
+        }, 
+        {
+            "Confidence": 53.343360900878906, 
+            "Name": "Bbq"
+        }, 
+        {
+            "Confidence": 51.791202545166016, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 51.791202545166016, 
+            "Name": "Meal"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

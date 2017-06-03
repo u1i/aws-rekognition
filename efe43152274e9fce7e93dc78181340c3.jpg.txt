@@ -1,0 +1,73 @@
+{
+    "Labels": [
+        {
+            "Confidence": 95.622802734375, 
+            "Name": "Dining Table"
+        }, 
+        {
+            "Confidence": 95.622802734375, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 95.622802734375, 
+            "Name": "Table"
+        }, 
+        {
+            "Confidence": 89.51026153564453, 
+            "Name": "Dining Room"
+        }, 
+        {
+            "Confidence": 89.51026153564453, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 89.51026153564453, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 86.38650512695312, 
+            "Name": "Chair"
+        }, 
+        {
+            "Confidence": 79.60480499267578, 
+            "Name": "Coffee Table"
+        }, 
+        {
+            "Confidence": 59.9112434387207, 
+            "Name": "Herbs"
+        }, 
+        {
+            "Confidence": 59.9112434387207, 
+            "Name": "Mint"
+        }, 
+        {
+            "Confidence": 59.9112434387207, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 59.26863479614258, 
+            "Name": "Window"
+        }, 
+        {
+            "Confidence": 57.411964416503906, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 56.7927131652832, 
+            "Name": "Apartment"
+        }, 
+        {
+            "Confidence": 56.7927131652832, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 52.32577896118164, 
+            "Name": "Interior Design"
+        }, 
+        {
+            "Confidence": 50.84122848510742, 
+            "Name": "Crypt"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

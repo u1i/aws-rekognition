@@ -1,0 +1,41 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.74153900146484, 
+            "Name": "Bird"
+        }, 
+        {
+            "Confidence": 98.74153900146484, 
+            "Name": "Macaw"
+        }, 
+        {
+            "Confidence": 98.74153900146484, 
+            "Name": "Parrot"
+        }, 
+        {
+            "Confidence": 98.62252807617188, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 98.62255859375, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 98.52880859375, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 83.28805541992188, 
+            "Name": "Beak"
+        }, 
+        {
+            "Confidence": 58.68077087402344, 
+            "Name": "Head"
+        }, 
+        {
+            "Confidence": 58.68077087402344, 
+            "Name": "Portrait"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

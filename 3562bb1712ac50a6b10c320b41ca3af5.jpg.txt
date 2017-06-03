@@ -1,0 +1,37 @@
+{
+    "Labels": [
+        {
+            "Confidence": 74.55974578857422, 
+            "Name": "Auditorium"
+        }, 
+        {
+            "Confidence": 74.55974578857422, 
+            "Name": "Concert"
+        }, 
+        {
+            "Confidence": 74.55974578857422, 
+            "Name": "Hall"
+        }, 
+        {
+            "Confidence": 74.55974578857422, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 74.55974578857422, 
+            "Name": "Theater"
+        }, 
+        {
+            "Confidence": 72.31695556640625, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 56.76261901855469, 
+            "Name": "Crowd"
+        }, 
+        {
+            "Confidence": 52.330101013183594, 
+            "Name": "Audience"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

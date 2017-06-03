@@ -1,0 +1,21 @@
+{
+    "Labels": [
+        {
+            "Confidence": 60.23033905029297, 
+            "Name": "Banner"
+        }, 
+        {
+            "Confidence": 60.23033905029297, 
+            "Name": "Emblem"
+        }, 
+        {
+            "Confidence": 60.23033905029297, 
+            "Name": "Flag"
+        }, 
+        {
+            "Confidence": 50.57860565185547, 
+            "Name": "Building"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

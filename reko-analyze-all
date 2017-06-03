@@ -1,0 +1,4 @@
+for d in *jpg
+do
+	aws rekognition detect-labels --image="{\"S3Object\": { \"Bucket\": \"uli-rekognition\", \"Name\": \"instafav/$d\" } }" --region=us-west-2 > $d.txt
+done

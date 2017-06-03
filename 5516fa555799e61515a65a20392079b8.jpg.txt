@@ -1,0 +1,109 @@
+{
+    "Labels": [
+        {
+            "Confidence": 90.93961334228516, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 90.93961334228516, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 90.93961334228516, 
+            "Name": "Villa"
+        }, 
+        {
+            "Confidence": 87.42086029052734, 
+            "Name": "Arecaceae"
+        }, 
+        {
+            "Confidence": 87.42086029052734, 
+            "Name": "Palm Tree"
+        }, 
+        {
+            "Confidence": 87.42086029052734, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 87.42086029052734, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 67.12249755859375, 
+            "Name": "Awning"
+        }, 
+        {
+            "Confidence": 62.105865478515625, 
+            "Name": "Forest"
+        }, 
+        {
+            "Confidence": 62.105865478515625, 
+            "Name": "Jungle"
+        }, 
+        {
+            "Confidence": 62.105865478515625, 
+            "Name": "Rainforest"
+        }, 
+        {
+            "Confidence": 62.105865478515625, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 52.96996307373047, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 52.96996307373047, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 52.96996307373047, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 51.91482162475586, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 51.91482162475586, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 51.91482162475586, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 51.09546661376953, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 51.053955078125, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 51.053955078125, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 51.053955078125, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 51.053955078125, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 50.978477478027344, 
+            "Name": "Arbour"
+        }, 
+        {
+            "Confidence": 50.51346969604492, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 50.51346969604492, 
+            "Name": "Town"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

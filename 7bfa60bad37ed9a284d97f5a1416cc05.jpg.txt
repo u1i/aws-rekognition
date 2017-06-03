@@ -1,0 +1,169 @@
+{
+    "Labels": [
+        {
+            "Confidence": 91.54176330566406, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 91.54176330566406, 
+            "Name": "Castle"
+        }, 
+        {
+            "Confidence": 91.54176330566406, 
+            "Name": "Fort"
+        }, 
+        {
+            "Confidence": 90.63094329833984, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 90.63094329833984, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 87.4549560546875, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 87.4549560546875, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 83.85028076171875, 
+            "Name": "Cruise Ship"
+        }, 
+        {
+            "Confidence": 83.85028076171875, 
+            "Name": "Ocean Liner"
+        }, 
+        {
+            "Confidence": 83.85028076171875, 
+            "Name": "Ship"
+        }, 
+        {
+            "Confidence": 83.85028076171875, 
+            "Name": "Vessel"
+        }, 
+        {
+            "Confidence": 70.28015899658203, 
+            "Name": "Alley"
+        }, 
+        {
+            "Confidence": 70.28015899658203, 
+            "Name": "Alleyway"
+        }, 
+        {
+            "Confidence": 70.28015899658203, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 70.28015899658203, 
+            "Name": "Street"
+        }, 
+        {
+            "Confidence": 70.28015899658203, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 66.03266143798828, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 66.03266143798828, 
+            "Name": "Monastery"
+        }, 
+        {
+            "Confidence": 65.4347152709961, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 65.0285415649414, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 62.738590240478516, 
+            "Name": "Railing"
+        }, 
+        {
+            "Confidence": 57.548404693603516, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 57.548404693603516, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 57.548404693603516, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 52.96940612792969, 
+            "Name": "Mansion"
+        }, 
+        {
+            "Confidence": 52.96940612792969, 
+            "Name": "Palace"
+        }, 
+        {
+            "Confidence": 52.96849060058594, 
+            "Name": "Villa"
+        }, 
+        {
+            "Confidence": 52.90549850463867, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 52.594818115234375, 
+            "Name": "Harbor"
+        }, 
+        {
+            "Confidence": 52.594818115234375, 
+            "Name": "Port"
+        }, 
+        {
+            "Confidence": 52.594818115234375, 
+            "Name": "Waterfront"
+        }, 
+        {
+            "Confidence": 52.52429962158203, 
+            "Name": "Intersection"
+        }, 
+        {
+            "Confidence": 52.19306182861328, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 51.902687072753906, 
+            "Name": "Bell Tower"
+        }, 
+        {
+            "Confidence": 51.902687072753906, 
+            "Name": "Clock Tower"
+        }, 
+        {
+            "Confidence": 51.902687072753906, 
+            "Name": "Tower"
+        }, 
+        {
+            "Confidence": 50.998497009277344, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 50.998497009277344, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 50.7023811340332, 
+            "Name": "Landscape"
+        }, 
+        {
+            "Confidence": 50.7023811340332, 
+            "Name": "Nature"
+        }, 
+        {
+            "Confidence": 50.7023811340332, 
+            "Name": "Scenery"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

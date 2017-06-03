@@ -1,0 +1,109 @@
+{
+    "Labels": [
+        {
+            "Confidence": 90.80531311035156, 
+            "Name": "Forest"
+        }, 
+        {
+            "Confidence": 90.80531311035156, 
+            "Name": "Jungle"
+        }, 
+        {
+            "Confidence": 83.97541046142578, 
+            "Name": "Art"
+        }, 
+        {
+            "Confidence": 83.97541046142578, 
+            "Name": "Sculpture"
+        }, 
+        {
+            "Confidence": 83.97541046142578, 
+            "Name": "Statue"
+        }, 
+        {
+            "Confidence": 73.62246704101562, 
+            "Name": "Tree Stump"
+        }, 
+        {
+            "Confidence": 68.68070983886719, 
+            "Name": "Rainforest"
+        }, 
+        {
+            "Confidence": 68.68070983886719, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 68.63124084472656, 
+            "Name": "Arecaceae"
+        }, 
+        {
+            "Confidence": 68.63124084472656, 
+            "Name": "Palm Tree"
+        }, 
+        {
+            "Confidence": 68.63124084472656, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 68.63124084472656, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 68.16980743408203, 
+            "Name": "Gargoyle"
+        }, 
+        {
+            "Confidence": 58.95243835449219, 
+            "Name": "Head"
+        }, 
+        {
+            "Confidence": 58.95243835449219, 
+            "Name": "Portrait"
+        }, 
+        {
+            "Confidence": 58.15555953979492, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 58.15555953979492, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 58.15555953979492, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 56.18621826171875, 
+            "Name": "Oak"
+        }, 
+        {
+            "Confidence": 56.18621826171875, 
+            "Name": "Wood"
+        }, 
+        {
+            "Confidence": 54.03727722167969, 
+            "Name": "Bush"
+        }, 
+        {
+            "Confidence": 51.516090393066406, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 51.43090057373047, 
+            "Name": "Grove"
+        }, 
+        {
+            "Confidence": 51.43090057373047, 
+            "Name": "Land"
+        }, 
+        {
+            "Confidence": 50.57129669189453, 
+            "Name": "Conifer"
+        }, 
+        {
+            "Confidence": 50.57129669189453, 
+            "Name": "Fir"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

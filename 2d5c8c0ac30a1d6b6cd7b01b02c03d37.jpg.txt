@@ -1,0 +1,57 @@
+{
+    "Labels": [
+        {
+            "Confidence": 95.39642333984375, 
+            "Name": "Computer"
+        }, 
+        {
+            "Confidence": 95.39642333984375, 
+            "Name": "Electronics"
+        }, 
+        {
+            "Confidence": 95.39642333984375, 
+            "Name": "LCD Screen"
+        }, 
+        {
+            "Confidence": 95.39642333984375, 
+            "Name": "Laptop"
+        }, 
+        {
+            "Confidence": 95.39642333984375, 
+            "Name": "Pc"
+        }, 
+        {
+            "Confidence": 90.46665954589844, 
+            "Name": "Apartment"
+        }, 
+        {
+            "Confidence": 90.46665954589844, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 90.46665954589844, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 90.46665954589844, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 51.887733459472656, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 51.46356201171875, 
+            "Name": "Window"
+        }, 
+        {
+            "Confidence": 50.979530334472656, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 50.931827545166016, 
+            "Name": "Interior Design"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

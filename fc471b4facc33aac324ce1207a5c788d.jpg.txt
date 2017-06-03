@@ -1,0 +1,117 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.0645980834961, 
+            "Name": "Beach"
+        }, 
+        {
+            "Confidence": 99.0645980834961, 
+            "Name": "Coast"
+        }, 
+        {
+            "Confidence": 99.0645980834961, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 99.0645980834961, 
+            "Name": "Sea"
+        }, 
+        {
+            "Confidence": 99.0645980834961, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 57.95245361328125, 
+            "Name": "Ocean"
+        }, 
+        {
+            "Confidence": 57.10742950439453, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 57.10742950439453, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 54.7581672668457, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 54.7581672668457, 
+            "Name": "Resort"
+        }, 
+        {
+            "Confidence": 54.640953063964844, 
+            "Name": "Sand"
+        }, 
+        {
+            "Confidence": 54.640953063964844, 
+            "Name": "Soil"
+        }, 
+        {
+            "Confidence": 54.60071563720703, 
+            "Name": "Leisure Activities"
+        }, 
+        {
+            "Confidence": 53.73362731933594, 
+            "Name": "Promontory"
+        }, 
+        {
+            "Confidence": 52.2819938659668, 
+            "Name": "Exercise"
+        }, 
+        {
+            "Confidence": 52.2819938659668, 
+            "Name": "Fitness"
+        }, 
+        {
+            "Confidence": 52.2819938659668, 
+            "Name": "Working Out"
+        }, 
+        {
+            "Confidence": 52.069793701171875, 
+            "Name": "Landscape"
+        }, 
+        {
+            "Confidence": 52.069793701171875, 
+            "Name": "Nature"
+        }, 
+        {
+            "Confidence": 52.069793701171875, 
+            "Name": "Scenery"
+        }, 
+        {
+            "Confidence": 51.86387252807617, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 51.86387252807617, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 51.86387252807617, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 51.5066032409668, 
+            "Name": "Oak"
+        }, 
+        {
+            "Confidence": 51.5066032409668, 
+            "Name": "Wood"
+        }, 
+        {
+            "Confidence": 50.55201721191406, 
+            "Name": "Palm Tree"
+        }, 
+        {
+            "Confidence": 50.535404205322266, 
+            "Name": "Island"
+        }, 
+        {
+            "Confidence": 50.535404205322266, 
+            "Name": "Land"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

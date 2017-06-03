@@ -1,0 +1,33 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.45274353027344, 
+            "Name": "Clam"
+        }, 
+        {
+            "Confidence": 98.45274353027344, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 98.45274353027344, 
+            "Name": "Oyster"
+        }, 
+        {
+            "Confidence": 98.45274353027344, 
+            "Name": "Sea Life"
+        }, 
+        {
+            "Confidence": 72.55122375488281, 
+            "Name": "Seafood"
+        }, 
+        {
+            "Confidence": 54.49968719482422, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 54.49968719482422, 
+            "Name": "Meal"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

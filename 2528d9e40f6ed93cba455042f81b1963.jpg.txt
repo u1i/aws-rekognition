@@ -1,0 +1,69 @@
+{
+    "Labels": [
+        {
+            "Confidence": 82.0501937866211, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 80.38911437988281, 
+            "Name": "Seafood"
+        }, 
+        {
+            "Confidence": 76.97356414794922, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 76.97356414794922, 
+            "Name": "Dish"
+        }, 
+        {
+            "Confidence": 76.97356414794922, 
+            "Name": "Meal"
+        }, 
+        {
+            "Confidence": 76.97356414794922, 
+            "Name": "Plate"
+        }, 
+        {
+            "Confidence": 74.00296783447266, 
+            "Name": "Curry"
+        }, 
+        {
+            "Confidence": 68.81731414794922, 
+            "Name": "Breakfast"
+        }, 
+        {
+            "Confidence": 65.76603698730469, 
+            "Name": "Dinner"
+        }, 
+        {
+            "Confidence": 65.76603698730469, 
+            "Name": "Supper"
+        }, 
+        {
+            "Confidence": 53.05855941772461, 
+            "Name": "Hot Pot"
+        }, 
+        {
+            "Confidence": 51.194400787353516, 
+            "Name": "Beverage"
+        }, 
+        {
+            "Confidence": 51.194400787353516, 
+            "Name": "Drink"
+        }, 
+        {
+            "Confidence": 50.69777297973633, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 50.69777297973633, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 50.69777297973633, 
+            "Name": "Food Court"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

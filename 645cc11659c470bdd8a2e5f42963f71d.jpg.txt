@@ -1,0 +1,65 @@
+{
+    "Labels": [
+        {
+            "Confidence": 95.42487335205078, 
+            "Name": "Chair"
+        }, 
+        {
+            "Confidence": 95.42487335205078, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 90.53450775146484, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 90.53450775146484, 
+            "Name": "Restaurant"
+        }, 
+        {
+            "Confidence": 89.7285385131836, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 89.7285385131836, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 67.50859832763672, 
+            "Name": "Conference Room"
+        }, 
+        {
+            "Confidence": 67.50859832763672, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 67.50859832763672, 
+            "Name": "Meeting Room"
+        }, 
+        {
+            "Confidence": 67.50859832763672, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 66.05852508544922, 
+            "Name": "Couch"
+        }, 
+        {
+            "Confidence": 63.89569091796875, 
+            "Name": "Interior Design"
+        }, 
+        {
+            "Confidence": 63.32250213623047, 
+            "Name": "Dining Room"
+        }, 
+        {
+            "Confidence": 52.08790969848633, 
+            "Name": "Reception Room"
+        }, 
+        {
+            "Confidence": 52.08790969848633, 
+            "Name": "Waiting Room"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

@@ -1,0 +1,61 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.32206726074219, 
+            "Name": "Belt"
+        }, 
+        {
+            "Confidence": 99.32206726074219, 
+            "Name": "Carousel"
+        }, 
+        {
+            "Confidence": 66.83584594726562, 
+            "Name": "Lighting"
+        }, 
+        {
+            "Confidence": 58.342857360839844, 
+            "Name": "Bazaar"
+        }, 
+        {
+            "Confidence": 58.342857360839844, 
+            "Name": "Market"
+        }, 
+        {
+            "Confidence": 58.342857360839844, 
+            "Name": "Shop"
+        }, 
+        {
+            "Confidence": 51.924293518066406, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 51.924293518066406, 
+            "Name": "Church"
+        }, 
+        {
+            "Confidence": 51.924293518066406, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 50.77599334716797, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 50.76438903808594, 
+            "Name": "Dome"
+        }, 
+        {
+            "Confidence": 50.66051483154297, 
+            "Name": "Bar Counter"
+        }, 
+        {
+            "Confidence": 50.66051483154297, 
+            "Name": "Pub"
+        }, 
+        {
+            "Confidence": 50.59149932861328, 
+            "Name": "Amusement Park"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

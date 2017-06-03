@@ -1,0 +1,101 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.53942108154297, 
+            "Name": "Palm Tree"
+        }, 
+        {
+            "Confidence": 98.53942108154297, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 98.53942108154297, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 86.5507583618164, 
+            "Name": "Tiki"
+        }, 
+        {
+            "Confidence": 86.5507583618164, 
+            "Name": "Totem"
+        }, 
+        {
+            "Confidence": 71.06715393066406, 
+            "Name": "Beach"
+        }, 
+        {
+            "Confidence": 71.06715393066406, 
+            "Name": "Coast"
+        }, 
+        {
+            "Confidence": 71.06715393066406, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 71.06715393066406, 
+            "Name": "Sea"
+        }, 
+        {
+            "Confidence": 71.06715393066406, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 60.43083190917969, 
+            "Name": "Art"
+        }, 
+        {
+            "Confidence": 60.43083190917969, 
+            "Name": "Sculpture"
+        }, 
+        {
+            "Confidence": 60.43083190917969, 
+            "Name": "Statue"
+        }, 
+        {
+            "Confidence": 57.21332931518555, 
+            "Name": "Arecaceae"
+        }, 
+        {
+            "Confidence": 51.376224517822266, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 51.376224517822266, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 51.376224517822266, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 51.272029876708984, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 51.272029876708984, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 50.56684112548828, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 50.56684112548828, 
+            "Name": "Resort"
+        }, 
+        {
+            "Confidence": 50.51949691772461, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 50.51949691772461, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 50.51949691772461, 
+            "Name": "Urban"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

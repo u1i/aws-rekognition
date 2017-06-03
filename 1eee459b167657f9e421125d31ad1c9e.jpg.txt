@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.29204559326172, 
+            "Name": "Animal"
+        }, 
+        {
+            "Confidence": 99.29204559326172, 
+            "Name": "Giraffe"
+        }, 
+        {
+            "Confidence": 99.29204559326172, 
+            "Name": "Mammal"
+        }, 
+        {
+            "Confidence": 73.84225463867188, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 73.84225463867188, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 58.534629821777344, 
+            "Name": "Oak"
+        }, 
+        {
+            "Confidence": 58.534629821777344, 
+            "Name": "Wood"
+        }, 
+        {
+            "Confidence": 53.84954071044922, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 53.84954071044922, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 53.84954071044922, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 53.54777145385742, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 52.896888732910156, 
+            "Name": "Forest"
+        }, 
+        {
+            "Confidence": 52.896888732910156, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 51.58079147338867, 
+            "Name": "Jungle"
+        }, 
+        {
+            "Confidence": 51.58079147338867, 
+            "Name": "Rainforest"
+        }, 
+        {
+            "Confidence": 50.940067291259766, 
+            "Name": "Bush"
+        }, 
+        {
+            "Confidence": 50.5444221496582, 
+            "Name": "Fir"
+        }, 
+        {
+            "Confidence": 50.5444221496582, 
+            "Name": "Grove"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

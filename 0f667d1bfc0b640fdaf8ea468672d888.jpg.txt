@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 96.00325012207031, 
+            "Name": "Cup"
+        }, 
+        {
+            "Confidence": 91.29793548583984, 
+            "Name": "Beverage"
+        }, 
+        {
+            "Confidence": 91.29793548583984, 
+            "Name": "Drink"
+        }, 
+        {
+            "Confidence": 64.26065063476562, 
+            "Name": "Lemonade"
+        }, 
+        {
+            "Confidence": 57.574832916259766, 
+            "Name": "Glass"
+        }, 
+        {
+            "Confidence": 57.2706298828125, 
+            "Name": "Alcohol"
+        }, 
+        {
+            "Confidence": 57.2706298828125, 
+            "Name": "Beer"
+        }, 
+        {
+            "Confidence": 57.2706298828125, 
+            "Name": "Beer Glass"
+        }, 
+        {
+            "Confidence": 57.18561935424805, 
+            "Name": "Can"
+        }, 
+        {
+            "Confidence": 57.18561935424805, 
+            "Name": "Tin"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

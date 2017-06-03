@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 94.25120544433594, 
+            "Name": "Brochure"
+        }, 
+        {
+            "Confidence": 94.25120544433594, 
+            "Name": "Flyer"
+        }, 
+        {
+            "Confidence": 94.25120544433594, 
+            "Name": "Poster"
+        }, 
+        {
+            "Confidence": 92.44871520996094, 
+            "Name": "Collage"
+        }, 
+        {
+            "Confidence": 74.90342712402344, 
+            "Name": "Triangle"
+        }, 
+        {
+            "Confidence": 56.35568618774414, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 56.35568618774414, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 56.35568618774414, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 56.35568618774414, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 56.35568618774414, 
+            "Name": "Skyscraper"
+        }, 
+        {
+            "Confidence": 56.11655807495117, 
+            "Name": "Paper"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

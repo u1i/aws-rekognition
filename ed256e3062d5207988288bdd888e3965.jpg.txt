@@ -1,0 +1,85 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.66268157958984, 
+            "Name": "Couch"
+        }, 
+        {
+            "Confidence": 98.66268157958984, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 98.59844207763672, 
+            "Name": "Cup"
+        }, 
+        {
+            "Confidence": 98.08181762695312, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 98.08181762695312, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 89.92559814453125, 
+            "Name": "Beverage"
+        }, 
+        {
+            "Confidence": 89.92559814453125, 
+            "Name": "Drink"
+        }, 
+        {
+            "Confidence": 79.13302612304688, 
+            "Name": "Coffee Cup"
+        }, 
+        {
+            "Confidence": 78.90028381347656, 
+            "Name": "Chair"
+        }, 
+        {
+            "Confidence": 61.07435989379883, 
+            "Name": "Dining Table"
+        }, 
+        {
+            "Confidence": 61.07435989379883, 
+            "Name": "Table"
+        }, 
+        {
+            "Confidence": 59.687034606933594, 
+            "Name": "Cushion"
+        }, 
+        {
+            "Confidence": 59.687034606933594, 
+            "Name": "Home Decor"
+        }, 
+        {
+            "Confidence": 59.687034606933594, 
+            "Name": "Pillow"
+        }, 
+        {
+            "Confidence": 57.150943756103516, 
+            "Name": "Dining Room"
+        }, 
+        {
+            "Confidence": 57.150943756103516, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 57.150943756103516, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 56.38724136352539, 
+            "Name": "Emblem"
+        }, 
+        {
+            "Confidence": 56.38724136352539, 
+            "Name": "Logo"
+        }, 
+        {
+            "Confidence": 52.75150680541992, 
+            "Name": "Bowl"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

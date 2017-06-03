@@ -1,0 +1,129 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.79263305664062, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 98.79266357421875, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 98.72582244873047, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 81.8104248046875, 
+            "Name": "Pool"
+        }, 
+        {
+            "Confidence": 81.8104248046875, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 81.0430908203125, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 81.0430908203125, 
+            "Name": "Resort"
+        }, 
+        {
+            "Confidence": 73.43206787109375, 
+            "Name": "Sport"
+        }, 
+        {
+            "Confidence": 73.43206787109375, 
+            "Name": "Swimming"
+        }, 
+        {
+            "Confidence": 71.4668960571289, 
+            "Name": "Massage"
+        }, 
+        {
+            "Confidence": 66.67550659179688, 
+            "Name": "Dock"
+        }, 
+        {
+            "Confidence": 66.67550659179688, 
+            "Name": "Landing"
+        }, 
+        {
+            "Confidence": 66.67550659179688, 
+            "Name": "Pier"
+        }, 
+        {
+            "Confidence": 59.70448303222656, 
+            "Name": "Bikini"
+        }, 
+        {
+            "Confidence": 59.70448303222656, 
+            "Name": "Maillot"
+        }, 
+        {
+            "Confidence": 59.70448303222656, 
+            "Name": "Swimwear"
+        }, 
+        {
+            "Confidence": 54.93925857543945, 
+            "Name": "Leisure Activities"
+        }, 
+        {
+            "Confidence": 54.08515930175781, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 54.08515930175781, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 54.08515930175781, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 52.01832580566406, 
+            "Name": "Beach"
+        }, 
+        {
+            "Confidence": 52.01832580566406, 
+            "Name": "Coast"
+        }, 
+        {
+            "Confidence": 52.01832580566406, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 52.01832580566406, 
+            "Name": "Sea"
+        }, 
+        {
+            "Confidence": 51.99969482421875, 
+            "Name": "Sand"
+        }, 
+        {
+            "Confidence": 51.99969482421875, 
+            "Name": "Soil"
+        }, 
+        {
+            "Confidence": 50.5638427734375, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 50.5638427734375, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 50.52573776245117, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 50.52573776245117, 
+            "Name": "Interior Design"
+        }, 
+        {
+            "Confidence": 50.52573776245117, 
+            "Name": "Room"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

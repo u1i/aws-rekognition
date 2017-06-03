@@ -1,0 +1,85 @@
+{
+    "Labels": [
+        {
+            "Confidence": 95.2202377319336, 
+            "Name": "Chair"
+        }, 
+        {
+            "Confidence": 95.2202377319336, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 82.82457733154297, 
+            "Name": "Dining Room"
+        }, 
+        {
+            "Confidence": 82.82457733154297, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 82.82457733154297, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 62.86783218383789, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 62.86783218383789, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 62.86783218383789, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 62.3011474609375, 
+            "Name": "Interior Design"
+        }, 
+        {
+            "Confidence": 60.49230194091797, 
+            "Name": "Dining Table"
+        }, 
+        {
+            "Confidence": 60.49230194091797, 
+            "Name": "Table"
+        }, 
+        {
+            "Confidence": 52.060646057128906, 
+            "Name": "Apartment"
+        }, 
+        {
+            "Confidence": 52.060646057128906, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 51.958824157714844, 
+            "Name": "Apparel"
+        }, 
+        {
+            "Confidence": 51.958824157714844, 
+            "Name": "Clothing"
+        }, 
+        {
+            "Confidence": 51.876319885253906, 
+            "Name": "Lighting"
+        }, 
+        {
+            "Confidence": 50.98360061645508, 
+            "Name": "Living Room"
+        }, 
+        {
+            "Confidence": 50.95708465576172, 
+            "Name": "Shop"
+        }, 
+        {
+            "Confidence": 50.84336471557617, 
+            "Name": "Column"
+        }, 
+        {
+            "Confidence": 50.84336471557617, 
+            "Name": "Pillar"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

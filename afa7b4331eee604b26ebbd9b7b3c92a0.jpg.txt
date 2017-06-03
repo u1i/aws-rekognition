@@ -1,0 +1,53 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.31266784667969, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 98.31266784667969, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 88.0674057006836, 
+            "Name": "Balcony"
+        }, 
+        {
+            "Confidence": 78.15648651123047, 
+            "Name": "Couch"
+        }, 
+        {
+            "Confidence": 78.15648651123047, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 64.3619613647461, 
+            "Name": "Dining Room"
+        }, 
+        {
+            "Confidence": 64.3619613647461, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 64.3619613647461, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 57.03642272949219, 
+            "Name": "Dining Table"
+        }, 
+        {
+            "Confidence": 57.03642272949219, 
+            "Name": "Table"
+        }, 
+        {
+            "Confidence": 50.95928192138672, 
+            "Name": "Interior Design"
+        }, 
+        {
+            "Confidence": 50.645362854003906, 
+            "Name": "Architecture"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

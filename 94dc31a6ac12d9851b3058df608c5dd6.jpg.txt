@@ -1,0 +1,85 @@
+{
+    "Labels": [
+        {
+            "Confidence": 90.0007095336914, 
+            "Name": "Bridge"
+        }, 
+        {
+            "Confidence": 85.82686614990234, 
+            "Name": "Arecaceae"
+        }, 
+        {
+            "Confidence": 85.82686614990234, 
+            "Name": "Palm Tree"
+        }, 
+        {
+            "Confidence": 85.82686614990234, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 85.82686614990234, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 80.04612731933594, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 80.04612731933594, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 80.04612731933594, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 55.54972457885742, 
+            "Name": "Bush"
+        }, 
+        {
+            "Confidence": 55.54972457885742, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 54.268558502197266, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 54.268558502197266, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 52.7745475769043, 
+            "Name": "Fiber"
+        }, 
+        {
+            "Confidence": 52.7745475769043, 
+            "Name": "Flax"
+        }, 
+        {
+            "Confidence": 52.26899337768555, 
+            "Name": "Arbour"
+        }, 
+        {
+            "Confidence": 52.23652267456055, 
+            "Name": "Amusement Park"
+        }, 
+        {
+            "Confidence": 51.62799835205078, 
+            "Name": "Grass"
+        }, 
+        {
+            "Confidence": 51.62799835205078, 
+            "Name": "Reed"
+        }, 
+        {
+            "Confidence": 50.64051818847656, 
+            "Name": "Field"
+        }, 
+        {
+            "Confidence": 50.64051818847656, 
+            "Name": "Grassland"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

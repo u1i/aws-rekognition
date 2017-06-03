@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 74.55952453613281, 
+            "Name": "Billboard"
+        }, 
+        {
+            "Confidence": 67.86516571044922, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 67.86516571044922, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 67.86516571044922, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 65.0841064453125, 
+            "Name": "Train"
+        }, 
+        {
+            "Confidence": 65.0841064453125, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 54.846893310546875, 
+            "Name": "Intersection"
+        }, 
+        {
+            "Confidence": 54.846893310546875, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 53.666175842285156, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 50.83522033691406, 
+            "Name": "Building"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

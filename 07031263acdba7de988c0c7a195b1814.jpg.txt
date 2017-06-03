@@ -1,0 +1,57 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.82148742675781, 
+            "Name": "Clam"
+        }, 
+        {
+            "Confidence": 98.82148742675781, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 98.82148742675781, 
+            "Name": "Oyster"
+        }, 
+        {
+            "Confidence": 98.82148742675781, 
+            "Name": "Sea Life"
+        }, 
+        {
+            "Confidence": 96.82268524169922, 
+            "Name": "Fries"
+        }, 
+        {
+            "Confidence": 76.90705108642578, 
+            "Name": "Bean Sprout"
+        }, 
+        {
+            "Confidence": 76.90705108642578, 
+            "Name": "Sprout"
+        }, 
+        {
+            "Confidence": 71.77718353271484, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 68.38505554199219, 
+            "Name": "Beverage"
+        }, 
+        {
+            "Confidence": 68.38505554199219, 
+            "Name": "Drink"
+        }, 
+        {
+            "Confidence": 52.02397537231445, 
+            "Name": "Dish"
+        }, 
+        {
+            "Confidence": 52.02397537231445, 
+            "Name": "Plate"
+        }, 
+        {
+            "Confidence": 51.54876708984375, 
+            "Name": "Meal"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

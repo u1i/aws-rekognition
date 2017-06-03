@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.17774200439453, 
+            "Name": "Palm Tree"
+        }, 
+        {
+            "Confidence": 99.17774200439453, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 99.17774200439453, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 94.798583984375, 
+            "Name": "Beach"
+        }, 
+        {
+            "Confidence": 94.798583984375, 
+            "Name": "Coast"
+        }, 
+        {
+            "Confidence": 94.798583984375, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 94.798583984375, 
+            "Name": "Sea"
+        }, 
+        {
+            "Confidence": 94.798583984375, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 69.04814147949219, 
+            "Name": "Arecaceae"
+        }, 
+        {
+            "Confidence": 53.98628234863281, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 53.98628234863281, 
+            "Name": "Resort"
+        }, 
+        {
+            "Confidence": 53.17252731323242, 
+            "Name": "Summer"
+        }, 
+        {
+            "Confidence": 53.17252731323242, 
+            "Name": "Tropical"
+        }, 
+        {
+            "Confidence": 50.75517272949219, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 50.75517272949219, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 50.62968063354492, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 50.62968063354492, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 50.62968063354492, 
+            "Name": "Flower"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

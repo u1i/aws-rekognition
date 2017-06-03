@@ -1,0 +1,105 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.70721435546875, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 98.70721435546875, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 98.70721435546875, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 98.70721435546875, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 92.26852416992188, 
+            "Name": "Ivy"
+        }, 
+        {
+            "Confidence": 92.26852416992188, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 92.26852416992188, 
+            "Name": "Vine"
+        }, 
+        {
+            "Confidence": 58.11185836791992, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 56.62865447998047, 
+            "Name": "Forest"
+        }, 
+        {
+            "Confidence": 56.62865447998047, 
+            "Name": "Grove"
+        }, 
+        {
+            "Confidence": 56.62865447998047, 
+            "Name": "Land"
+        }, 
+        {
+            "Confidence": 56.50531768798828, 
+            "Name": "Fir"
+        }, 
+        {
+            "Confidence": 56.50531768798828, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 54.54593276977539, 
+            "Name": "Jungle"
+        }, 
+        {
+            "Confidence": 54.54593276977539, 
+            "Name": "Rainforest"
+        }, 
+        {
+            "Confidence": 53.44337844848633, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 53.210784912109375, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 53.210784912109375, 
+            "Name": "Tourist"
+        }, 
+        {
+            "Confidence": 53.19769287109375, 
+            "Name": "Oak"
+        }, 
+        {
+            "Confidence": 53.19769287109375, 
+            "Name": "Wood"
+        }, 
+        {
+            "Confidence": 52.52794647216797, 
+            "Name": "Redwood"
+        }, 
+        {
+            "Confidence": 52.39641189575195, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 52.39641189575195, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 52.39641189575195, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 50.50308609008789, 
+            "Name": "Arbour"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

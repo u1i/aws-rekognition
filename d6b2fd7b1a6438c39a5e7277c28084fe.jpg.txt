@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.48963165283203, 
+            "Name": "Dawn"
+        }, 
+        {
+            "Confidence": 98.48963165283203, 
+            "Name": "Dusk"
+        }, 
+        {
+            "Confidence": 98.48963165283203, 
+            "Name": "Red Sky"
+        }, 
+        {
+            "Confidence": 98.48963165283203, 
+            "Name": "Sky"
+        }, 
+        {
+            "Confidence": 98.48963165283203, 
+            "Name": "Sunrise"
+        }, 
+        {
+            "Confidence": 98.48963165283203, 
+            "Name": "Sunset"
+        }, 
+        {
+            "Confidence": 64.60053253173828, 
+            "Name": "Night"
+        }, 
+        {
+            "Confidence": 64.60053253173828, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 61.705875396728516, 
+            "Name": "Silhouette"
+        }, 
+        {
+            "Confidence": 59.547950744628906, 
+            "Name": "Azure Sky"
+        }, 
+        {
+            "Confidence": 59.547950744628906, 
+            "Name": "Cloud"
+        }, 
+        {
+            "Confidence": 59.038822174072266, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 59.038822174072266, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 59.038822174072266, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 57.187782287597656, 
+            "Name": "Sunlight"
+        }, 
+        {
+            "Confidence": 50.977664947509766, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 50.977664947509766, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 50.858009338378906, 
+            "Name": "Neighborhood"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

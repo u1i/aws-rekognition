@@ -1,0 +1,93 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.03173828125, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 98.03173828125, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 77.4622802734375, 
+            "Name": "Animal"
+        }, 
+        {
+            "Confidence": 77.4622802734375, 
+            "Name": "Cat"
+        }, 
+        {
+            "Confidence": 77.4622802734375, 
+            "Name": "Mammal"
+        }, 
+        {
+            "Confidence": 77.4622802734375, 
+            "Name": "Manx"
+        }, 
+        {
+            "Confidence": 77.4622802734375, 
+            "Name": "Pet"
+        }, 
+        {
+            "Confidence": 70.46217346191406, 
+            "Name": "Dirt Road"
+        }, 
+        {
+            "Confidence": 70.46217346191406, 
+            "Name": "Gravel"
+        }, 
+        {
+            "Confidence": 57.58321762084961, 
+            "Name": "Forest"
+        }, 
+        {
+            "Confidence": 57.58321762084961, 
+            "Name": "Jungle"
+        }, 
+        {
+            "Confidence": 55.10121154785156, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 55.10121154785156, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 55.10121154785156, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 55.09123992919922, 
+            "Name": "Rainforest"
+        }, 
+        {
+            "Confidence": 55.09123992919922, 
+            "Name": "Vegetation"
+        }, 
+        {
+            "Confidence": 54.73971939086914, 
+            "Name": "Arecaceae"
+        }, 
+        {
+            "Confidence": 54.73971939086914, 
+            "Name": "Palm Tree"
+        }, 
+        {
+            "Confidence": 54.73971939086914, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 51.3636474609375, 
+            "Name": "Backyard"
+        }, 
+        {
+            "Confidence": 51.3636474609375, 
+            "Name": "Yard"
+        }, 
+        {
+            "Confidence": 50.52742385864258, 
+            "Name": "Bush"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

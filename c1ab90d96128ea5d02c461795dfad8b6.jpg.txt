@@ -1,0 +1,33 @@
+{
+    "Labels": [
+        {
+            "Confidence": 70.00691223144531, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 70.00691223144531, 
+            "Name": "Hot Pot"
+        }, 
+        {
+            "Confidence": 64.98887634277344, 
+            "Name": "Plywood"
+        }, 
+        {
+            "Confidence": 64.98887634277344, 
+            "Name": "Wood"
+        }, 
+        {
+            "Confidence": 51.92526626586914, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 50.895225524902344, 
+            "Name": "Dish"
+        }, 
+        {
+            "Confidence": 50.895225524902344, 
+            "Name": "Plate"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_90"
+}

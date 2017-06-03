@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 64.90751647949219, 
+            "Name": "Boat"
+        }, 
+        {
+            "Confidence": 64.90751647949219, 
+            "Name": "Dinghy"
+        }, 
+        {
+            "Confidence": 55.99858856201172, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 55.99858856201172, 
+            "Name": "Dome"
+        }, 
+        {
+            "Confidence": 54.256290435791016, 
+            "Name": "Buddha"
+        }, 
+        {
+            "Confidence": 54.256290435791016, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 54.256290435791016, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 54.256290435791016, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 52.03705978393555, 
+            "Name": "Pagoda"
+        }, 
+        {
+            "Confidence": 52.03705978393555, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 50.602203369140625, 
+            "Name": "Building"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

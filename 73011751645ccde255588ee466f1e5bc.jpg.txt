@@ -1,0 +1,61 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.83153533935547, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 98.83155822753906, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 98.77053833007812, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 64.09623718261719, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 64.09623718261719, 
+            "Name": "Bell Tower"
+        }, 
+        {
+            "Confidence": 64.09623718261719, 
+            "Name": "Clock Tower"
+        }, 
+        {
+            "Confidence": 64.09623718261719, 
+            "Name": "Tower"
+        }, 
+        {
+            "Confidence": 59.33686065673828, 
+            "Name": "Bench"
+        }, 
+        {
+            "Confidence": 53.937278747558594, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 53.937278747558594, 
+            "Name": "Resort"
+        }, 
+        {
+            "Confidence": 51.390682220458984, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 51.390682220458984, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 51.390682220458984, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 50.675479888916016, 
+            "Name": "Building"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

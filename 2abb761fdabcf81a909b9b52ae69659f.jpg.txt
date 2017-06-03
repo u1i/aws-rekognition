@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.742431640625, 
+            "Name": "Chair"
+        }, 
+        {
+            "Confidence": 98.742431640625, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 66.96817016601562, 
+            "Name": "Speech"
+        }, 
+        {
+            "Confidence": 53.35708236694336, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 53.35708236694336, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 53.35708236694336, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 53.34402847290039, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 53.34402847290039, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 53.34402847290039, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 53.34402847290039, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 50.64859390258789, 
+            "Name": "Music Band"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

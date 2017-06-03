@@ -1,0 +1,101 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.21063232421875, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 99.21063232421875, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 99.19861602783203, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 99.0372314453125, 
+            "Name": "Chair"
+        }, 
+        {
+            "Confidence": 99.0372314453125, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 97.7568588256836, 
+            "Name": "Aircraft"
+        }, 
+        {
+            "Confidence": 97.7568588256836, 
+            "Name": "Airplane"
+        }, 
+        {
+            "Confidence": 82.96224212646484, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 82.96224212646484, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 82.96224212646484, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 69.73368072509766, 
+            "Name": "Back"
+        }, 
+        {
+            "Confidence": 53.957855224609375, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 53.957855224609375, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 53.957855224609375, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 52.56216049194336, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 52.56216049194336, 
+            "Name": "Resort"
+        }, 
+        {
+            "Confidence": 51.639617919921875, 
+            "Name": "Lighting"
+        }, 
+        {
+            "Confidence": 51.141815185546875, 
+            "Name": "Cruise Ship"
+        }, 
+        {
+            "Confidence": 51.141815185546875, 
+            "Name": "Ocean Liner"
+        }, 
+        {
+            "Confidence": 51.141815185546875, 
+            "Name": "Ship"
+        }, 
+        {
+            "Confidence": 51.141815185546875, 
+            "Name": "Vessel"
+        }, 
+        {
+            "Confidence": 50.8983268737793, 
+            "Name": "Dock"
+        }, 
+        {
+            "Confidence": 50.8983268737793, 
+            "Name": "Landing"
+        }, 
+        {
+            "Confidence": 50.8983268737793, 
+            "Name": "Pier"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

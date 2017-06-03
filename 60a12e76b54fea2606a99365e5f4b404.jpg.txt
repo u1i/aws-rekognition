@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 93.17993927001953, 
+            "Name": "Cup"
+        }, 
+        {
+            "Confidence": 73.6754150390625, 
+            "Name": "Coffee Cup"
+        }, 
+        {
+            "Confidence": 71.8779525756836, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 71.8779525756836, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 71.8779525756836, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 56.01307678222656, 
+            "Name": "Hardwood"
+        }, 
+        {
+            "Confidence": 56.01307678222656, 
+            "Name": "Wood"
+        }, 
+        {
+            "Confidence": 54.303138732910156, 
+            "Name": "Bar Counter"
+        }, 
+        {
+            "Confidence": 54.303138732910156, 
+            "Name": "Pub"
+        }, 
+        {
+            "Confidence": 50.51755142211914, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 50.50053405761719, 
+            "Name": "Leisure Activities"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

@@ -1,0 +1,69 @@
+{
+    "Labels": [
+        {
+            "Confidence": 96.73196411132812, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 66.00457763671875, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 52.88432693481445, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 52.88432693481445, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 52.88432693481445, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 52.88432693481445, 
+            "Name": "Petal"
+        }, 
+        {
+            "Confidence": 52.88432693481445, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 52.025814056396484, 
+            "Name": "Dish"
+        }, 
+        {
+            "Confidence": 52.025814056396484, 
+            "Name": "Plate"
+        }, 
+        {
+            "Confidence": 51.336891174316406, 
+            "Name": "Accessories"
+        }, 
+        {
+            "Confidence": 51.13417434692383, 
+            "Name": "Meal"
+        }, 
+        {
+            "Confidence": 50.93259811401367, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 50.93259811401367, 
+            "Name": "Portrait"
+        }, 
+        {
+            "Confidence": 50.93259811401367, 
+            "Name": "Selfie"
+        }, 
+        {
+            "Confidence": 50.85346221923828, 
+            "Name": "Bacon"
+        }, 
+        {
+            "Confidence": 50.777828216552734, 
+            "Name": "Anther"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

@@ -1,0 +1,69 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.28086853027344, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 98.28086853027344, 
+            "Name": "Library"
+        }, 
+        {
+            "Confidence": 98.28086853027344, 
+            "Name": "Room"
+        }, 
+        {
+            "Confidence": 82.49840545654297, 
+            "Name": "Banister"
+        }, 
+        {
+            "Confidence": 82.49840545654297, 
+            "Name": "Handrail"
+        }, 
+        {
+            "Confidence": 82.49840545654297, 
+            "Name": "Staircase"
+        }, 
+        {
+            "Confidence": 67.26666259765625, 
+            "Name": "Molding"
+        }, 
+        {
+            "Confidence": 61.48347091674805, 
+            "Name": "Arch"
+        }, 
+        {
+            "Confidence": 61.48347091674805, 
+            "Name": "Vault Ceiling"
+        }, 
+        {
+            "Confidence": 60.57330322265625, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 60.57330322265625, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 53.60633087158203, 
+            "Name": "Column"
+        }, 
+        {
+            "Confidence": 53.60633087158203, 
+            "Name": "Pillar"
+        }, 
+        {
+            "Confidence": 51.045616149902344, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 51.01678466796875, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 50.92534255981445, 
+            "Name": "Dining Room"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

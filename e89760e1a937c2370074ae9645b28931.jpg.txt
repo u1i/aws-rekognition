@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 89.59294891357422, 
+            "Name": "Boat"
+        }, 
+        {
+            "Confidence": 89.59294891357422, 
+            "Name": "Dinghy"
+        }, 
+        {
+            "Confidence": 82.75060272216797, 
+            "Name": "Rowboat"
+        }, 
+        {
+            "Confidence": 82.75060272216797, 
+            "Name": "Vessel"
+        }, 
+        {
+            "Confidence": 59.80381774902344, 
+            "Name": "Canoe"
+        }, 
+        {
+            "Confidence": 59.73678207397461, 
+            "Name": "Watercraft"
+        }, 
+        {
+            "Confidence": 57.4486198425293, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 57.4486198425293, 
+            "Name": "Sea"
+        }, 
+        {
+            "Confidence": 57.4486198425293, 
+            "Name": "Water"
+        }, 
+        {
+            "Confidence": 53.564674377441406, 
+            "Name": "Beach"
+        }, 
+        {
+            "Confidence": 53.564674377441406, 
+            "Name": "Coast"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

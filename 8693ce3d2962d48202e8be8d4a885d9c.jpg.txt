@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 93.65911102294922, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 93.65911102294922, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 93.65911102294922, 
+            "Name": "Skylight"
+        }, 
+        {
+            "Confidence": 93.65911102294922, 
+            "Name": "Window"
+        }, 
+        {
+            "Confidence": 58.96426010131836, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 52.54942321777344, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 52.543800354003906, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 52.543800354003906, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 51.5206413269043, 
+            "Name": "Office Building"
+        }, 
+        {
+            "Confidence": 50.55485916137695, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 50.55485916137695, 
+            "Name": "Urban"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

@@ -1,0 +1,125 @@
+{
+    "Labels": [
+        {
+            "Confidence": 96.01560974121094, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 96.01560974121094, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 96.01560974121094, 
+            "Name": "Villa"
+        }, 
+        {
+            "Confidence": 95.42908477783203, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 95.42908477783203, 
+            "Name": "Potted Plant"
+        }, 
+        {
+            "Confidence": 73.58988952636719, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 53.341217041015625, 
+            "Name": "Apartment Building"
+        }, 
+        {
+            "Confidence": 53.341217041015625, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 53.27646255493164, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 53.27646255493164, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 53.27646255493164, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 53.27646255493164, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 52.527870178222656, 
+            "Name": "Deck"
+        }, 
+        {
+            "Confidence": 52.527870178222656, 
+            "Name": "Porch"
+        }, 
+        {
+            "Confidence": 52.07304382324219, 
+            "Name": "Bonsai"
+        }, 
+        {
+            "Confidence": 51.59172821044922, 
+            "Name": "Canopy"
+        }, 
+        {
+            "Confidence": 51.594058990478516, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 51.594058990478516, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 51.44535827636719, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 51.44535827636719, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 51.44535827636719, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 51.23271942138672, 
+            "Name": "Closet"
+        }, 
+        {
+            "Confidence": 51.23271942138672, 
+            "Name": "Kiosk"
+        }, 
+        {
+            "Confidence": 51.09744644165039, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 50.830238342285156, 
+            "Name": "Office Building"
+        }, 
+        {
+            "Confidence": 50.76826858520508, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 50.76826858520508, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 50.76826858520508, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 50.59821701049805, 
+            "Name": "Hotel"
+        }, 
+        {
+            "Confidence": 50.59821701049805, 
+            "Name": "Resort"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

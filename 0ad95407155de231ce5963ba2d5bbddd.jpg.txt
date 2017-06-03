@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.1238784790039, 
+            "Name": "Mailbox"
+        }, 
+        {
+            "Confidence": 99.1238784790039, 
+            "Name": "Postbox"
+        }, 
+        {
+            "Confidence": 91.37671661376953, 
+            "Name": "Bicycle"
+        }, 
+        {
+            "Confidence": 91.37671661376953, 
+            "Name": "Bike"
+        }, 
+        {
+            "Confidence": 91.37671661376953, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 78.72016143798828, 
+            "Name": "Chair"
+        }, 
+        {
+            "Confidence": 78.72016143798828, 
+            "Name": "Furniture"
+        }, 
+        {
+            "Confidence": 59.55667495727539, 
+            "Name": "Closet"
+        }, 
+        {
+            "Confidence": 59.55667495727539, 
+            "Name": "Kiosk"
+        }, 
+        {
+            "Confidence": 56.92110061645508, 
+            "Name": "Sign"
+        }, 
+        {
+            "Confidence": 51.92549133300781, 
+            "Name": "Cafe"
+        }, 
+        {
+            "Confidence": 51.92549133300781, 
+            "Name": "Cafeteria"
+        }, 
+        {
+            "Confidence": 51.92549133300781, 
+            "Name": "Food Court"
+        }, 
+        {
+            "Confidence": 50.54387283325195, 
+            "Name": "Alley"
+        }, 
+        {
+            "Confidence": 50.54387283325195, 
+            "Name": "Alleyway"
+        }, 
+        {
+            "Confidence": 50.54387283325195, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 50.54387283325195, 
+            "Name": "Street"
+        }, 
+        {
+            "Confidence": 50.54387283325195, 
+            "Name": "Town"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

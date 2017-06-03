@@ -1,0 +1,93 @@
+{
+    "Labels": [
+        {
+            "Confidence": 65.08085632324219, 
+            "Name": "Azure Sky"
+        }, 
+        {
+            "Confidence": 65.08085632324219, 
+            "Name": "Cloud"
+        }, 
+        {
+            "Confidence": 65.08085632324219, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 65.08085632324219, 
+            "Name": "Sky"
+        }, 
+        {
+            "Confidence": 58.894264221191406, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 58.894264221191406, 
+            "Name": "Bell Tower"
+        }, 
+        {
+            "Confidence": 58.894264221191406, 
+            "Name": "Clock Tower"
+        }, 
+        {
+            "Confidence": 58.894264221191406, 
+            "Name": "Tower"
+        }, 
+        {
+            "Confidence": 56.599891662597656, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 56.599891662597656, 
+            "Name": "Monastery"
+        }, 
+        {
+            "Confidence": 56.36826705932617, 
+            "Name": "Cumulus"
+        }, 
+        {
+            "Confidence": 53.86994934082031, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 51.8353271484375, 
+            "Name": "Column"
+        }, 
+        {
+            "Confidence": 51.8353271484375, 
+            "Name": "Parthenon"
+        }, 
+        {
+            "Confidence": 51.8353271484375, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 51.8353271484375, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 50.754642486572266, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 50.754642486572266, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 50.754642486572266, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 50.549781799316406, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 50.549781799316406, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 50.51546859741211, 
+            "Name": "Construction"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

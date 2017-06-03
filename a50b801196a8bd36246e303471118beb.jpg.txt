@@ -1,0 +1,121 @@
+{
+    "Labels": [
+        {
+            "Confidence": 89.2762451171875, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 89.2762451171875, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 89.2762451171875, 
+            "Name": "Villa"
+        }, 
+        {
+            "Confidence": 87.42211151123047, 
+            "Name": "Bicycle"
+        }, 
+        {
+            "Confidence": 87.42211151123047, 
+            "Name": "Bike"
+        }, 
+        {
+            "Confidence": 87.42211151123047, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 77.68807220458984, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 77.68807220458984, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 65.50594329833984, 
+            "Name": "Brick"
+        }, 
+        {
+            "Confidence": 58.87901306152344, 
+            "Name": "Cyclist"
+        }, 
+        {
+            "Confidence": 55.47615432739258, 
+            "Name": "Asphalt"
+        }, 
+        {
+            "Confidence": 55.47615432739258, 
+            "Name": "Tarmac"
+        }, 
+        {
+            "Confidence": 52.79037857055664, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 52.79037857055664, 
+            "Name": "Neighborhood"
+        }, 
+        {
+            "Confidence": 52.79037857055664, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 52.03224563598633, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 52.03224563598633, 
+            "Name": "Mansion"
+        }, 
+        {
+            "Confidence": 51.21262741088867, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 51.21262741088867, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 50.992881774902344, 
+            "Name": "Apartment Building"
+        }, 
+        {
+            "Confidence": 50.992881774902344, 
+            "Name": "High Rise"
+        }, 
+        {
+            "Confidence": 50.875484466552734, 
+            "Name": "Intersection"
+        }, 
+        {
+            "Confidence": 50.875484466552734, 
+            "Name": "Road"
+        }, 
+        {
+            "Confidence": 50.649749755859375, 
+            "Name": "Church"
+        }, 
+        {
+            "Confidence": 50.649749755859375, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 50.558807373046875, 
+            "Name": "Office Building"
+        }, 
+        {
+            "Confidence": 50.541770935058594, 
+            "Name": "Alley"
+        }, 
+        {
+            "Confidence": 50.541770935058594, 
+            "Name": "Alleyway"
+        }, 
+        {
+            "Confidence": 50.541770935058594, 
+            "Name": "Street"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

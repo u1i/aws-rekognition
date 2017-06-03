@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 92.83646392822266, 
+            "Name": "Airport Terminal"
+        }, 
+        {
+            "Confidence": 92.83646392822266, 
+            "Name": "Terminal"
+        }, 
+        {
+            "Confidence": 55.16697692871094, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 55.16697692871094, 
+            "Name": "Convention Center"
+        }, 
+        {
+            "Confidence": 52.276676177978516, 
+            "Name": "City"
+        }, 
+        {
+            "Confidence": 52.276676177978516, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 51.91718292236328, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 51.63796615600586, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 51.33568572998047, 
+            "Name": "Metropolis"
+        }, 
+        {
+            "Confidence": 51.33568572998047, 
+            "Name": "Urban"
+        }, 
+        {
+            "Confidence": 50.98260498046875, 
+            "Name": "Office Building"
+        }, 
+        {
+            "Confidence": 50.97286605834961, 
+            "Name": "Cruise Ship"
+        }, 
+        {
+            "Confidence": 50.97286605834961, 
+            "Name": "Ocean Liner"
+        }, 
+        {
+            "Confidence": 50.97286605834961, 
+            "Name": "Ship"
+        }, 
+        {
+            "Confidence": 50.97286605834961, 
+            "Name": "Vessel"
+        }, 
+        {
+            "Confidence": 50.726707458496094, 
+            "Name": "Apartment"
+        }, 
+        {
+            "Confidence": 50.726707458496094, 
+            "Name": "Indoors"
+        }, 
+        {
+            "Confidence": 50.726707458496094, 
+            "Name": "Room"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

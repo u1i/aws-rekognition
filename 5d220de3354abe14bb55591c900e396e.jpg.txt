@@ -1,0 +1,65 @@
+{
+    "Labels": [
+        {
+            "Confidence": 95.49128723144531, 
+            "Name": "Beverage"
+        }, 
+        {
+            "Confidence": 95.49128723144531, 
+            "Name": "Drink"
+        }, 
+        {
+            "Confidence": 85.83351135253906, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 85.83351135253906, 
+            "Name": "Sandwich"
+        }, 
+        {
+            "Confidence": 78.49117279052734, 
+            "Name": "Cup"
+        }, 
+        {
+            "Confidence": 68.13409423828125, 
+            "Name": "Alcohol"
+        }, 
+        {
+            "Confidence": 68.13409423828125, 
+            "Name": "Beer"
+        }, 
+        {
+            "Confidence": 58.290618896484375, 
+            "Name": "Dessert"
+        }, 
+        {
+            "Confidence": 54.102577209472656, 
+            "Name": "Cream"
+        }, 
+        {
+            "Confidence": 54.102577209472656, 
+            "Name": "Creme"
+        }, 
+        {
+            "Confidence": 52.13911437988281, 
+            "Name": "Glass"
+        }, 
+        {
+            "Confidence": 50.78145980834961, 
+            "Name": "Dish"
+        }, 
+        {
+            "Confidence": 50.78145980834961, 
+            "Name": "Plate"
+        }, 
+        {
+            "Confidence": 50.64402770996094, 
+            "Name": "Bowl"
+        }, 
+        {
+            "Confidence": 50.64402770996094, 
+            "Name": "Meal"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

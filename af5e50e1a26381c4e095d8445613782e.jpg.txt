@@ -1,0 +1,149 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.01559448242188, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 99.0156021118164, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 98.98025512695312, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 93.03055572509766, 
+            "Name": "Art"
+        }, 
+        {
+            "Confidence": 93.03055572509766, 
+            "Name": "Sculpture"
+        }, 
+        {
+            "Confidence": 93.03055572509766, 
+            "Name": "Statue"
+        }, 
+        {
+            "Confidence": 91.60560607910156, 
+            "Name": "Architecture"
+        }, 
+        {
+            "Confidence": 91.60560607910156, 
+            "Name": "Shrine"
+        }, 
+        {
+            "Confidence": 91.60560607910156, 
+            "Name": "Temple"
+        }, 
+        {
+            "Confidence": 91.60560607910156, 
+            "Name": "Worship"
+        }, 
+        {
+            "Confidence": 65.3251953125, 
+            "Name": "Castle"
+        }, 
+        {
+            "Confidence": 65.3251953125, 
+            "Name": "Fort"
+        }, 
+        {
+            "Confidence": 61.20690155029297, 
+            "Name": "Tiki"
+        }, 
+        {
+            "Confidence": 61.20690155029297, 
+            "Name": "Totem"
+        }, 
+        {
+            "Confidence": 60.69791793823242, 
+            "Name": "Conifer"
+        }, 
+        {
+            "Confidence": 60.69791793823242, 
+            "Name": "Fir"
+        }, 
+        {
+            "Confidence": 60.69791793823242, 
+            "Name": "Plant"
+        }, 
+        {
+            "Confidence": 60.69791793823242, 
+            "Name": "Tree"
+        }, 
+        {
+            "Confidence": 57.596588134765625, 
+            "Name": "Housing"
+        }, 
+        {
+            "Confidence": 57.596588134765625, 
+            "Name": "Monastery"
+        }, 
+        {
+            "Confidence": 54.42007064819336, 
+            "Name": "Building"
+        }, 
+        {
+            "Confidence": 54.42007064819336, 
+            "Name": "Villa"
+        }, 
+        {
+            "Confidence": 53.8734130859375, 
+            "Name": "Downtown"
+        }, 
+        {
+            "Confidence": 53.8734130859375, 
+            "Name": "Plaza"
+        }, 
+        {
+            "Confidence": 53.8734130859375, 
+            "Name": "Town"
+        }, 
+        {
+            "Confidence": 53.8734130859375, 
+            "Name": "Town Square"
+        }, 
+        {
+            "Confidence": 52.9228515625, 
+            "Name": "Yard"
+        }, 
+        {
+            "Confidence": 51.29123306274414, 
+            "Name": "Blossom"
+        }, 
+        {
+            "Confidence": 51.29123306274414, 
+            "Name": "Flora"
+        }, 
+        {
+            "Confidence": 51.29123306274414, 
+            "Name": "Flower"
+        }, 
+        {
+            "Confidence": 51.02764892578125, 
+            "Name": "Landscape"
+        }, 
+        {
+            "Confidence": 51.02764892578125, 
+            "Name": "Nature"
+        }, 
+        {
+            "Confidence": 51.02764892578125, 
+            "Name": "Scenery"
+        }, 
+        {
+            "Confidence": 50.82368850708008, 
+            "Name": "Leisure Activities"
+        }, 
+        {
+            "Confidence": 50.61519241333008, 
+            "Name": "Artemis"
+        }, 
+        {
+            "Confidence": 50.573997497558594, 
+            "Name": "Vegetation"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

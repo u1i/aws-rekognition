@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.6453857421875, 
+            "Name": "Food"
+        }, 
+        {
+            "Confidence": 98.6453857421875, 
+            "Name": "French Toast"
+        }, 
+        {
+            "Confidence": 98.6453857421875, 
+            "Name": "Toast"
+        }, 
+        {
+            "Confidence": 96.03346252441406, 
+            "Name": "Ketchup"
+        }, 
+        {
+            "Confidence": 96.03346252441406, 
+            "Name": "Seasoning"
+        }, 
+        {
+            "Confidence": 87.77503967285156, 
+            "Name": "Cup"
+        }, 
+        {
+            "Confidence": 86.54484558105469, 
+            "Name": "Beverage"
+        }, 
+        {
+            "Confidence": 86.54484558105469, 
+            "Name": "Tea"
+        }, 
+        {
+            "Confidence": 83.20110321044922, 
+            "Name": "Drink"
+        }, 
+        {
+            "Confidence": 66.18209838867188, 
+            "Name": "Dessert"
+        }, 
+        {
+            "Confidence": 61.09576416015625, 
+            "Name": "Bowl"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}
